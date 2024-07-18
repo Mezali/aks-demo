@@ -5,7 +5,7 @@
 trigger:
 - main
 
-pool:
+Pool:
   name: Default
   
 resources:
