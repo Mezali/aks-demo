@@ -1,8 +1,5 @@
 trigger:
 - main
-
-pool:
-  name: Default # Substitua pelo nome do seu pool de agentes self-hosted
   
 resources:
 - repo: self
@@ -24,8 +21,6 @@ stages:
   jobs:
   - job: Build
     displayName: Build
-    pool:
-      name: Default # Use o nome do seu pool de agentes self-hosted
     steps:
     - task: Docker@2
       displayName: Build and push an image to container registry
