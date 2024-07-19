@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: nginxapp01 
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: nginxapp01
+  template:
+    metadata:
+      labels:
+        app: nginxapp01 
+    spec:
+      containers:
+        - name: nginxapp01 
+          image: mazali.azurecr.io/nginxapp01
+          ports:
+          - containerPort: 80
