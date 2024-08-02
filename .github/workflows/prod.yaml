@@ -1,4 +1,4 @@
-name: Deploy to AKS
+name: Build and Deploy ARM64 Image
 
 on:
   push:
@@ -11,10 +11,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Set up Docker Buildx
-        uses: docker/setup-buildx-action@v1
+        uses: docker/setup-buildx-action@v2
 
       - name: Log in to Azure Container Registry
         uses: azure/docker-login@v1
@@ -23,12 +23,9 @@ jobs:
           username: ${{ secrets.ACR_USERNAME }}
           password: ${{ secrets.ACR_PASSWORD }}
 
-      - name: Build and push Docker image
-        uses: docker/build-push-action@v2
-        with:
-          context: .
-          push: true
-          tags: acri9.azurecr.io/i9-prod:${{ github.sha }}
+      - name: Build and push ARM64 Docker image
+        run: |
+          docker buildx build --platform linux/arm64 -t acri9.azurecr.io/i9-prod:${{ github.sha }} --push .
 
       - name: Set up Kubectl
         uses: azure/setup-kubectl@v1
@@ -44,4 +41,4 @@ jobs:
         run: az aks get-credentials --resource-group I9-BACKEND --name i9-cluster
 
       - name: Deploy to AKS
-        run: kubectl set image deployment/i9-prod i9-prod=acri9.azurecr.io/i9-prod:${{ github.sha }}
+        run: kubectl set image deployment/i9-prod i9-prod=acri9.azurecr.io/i9-prod:${{ github.sha }} --namespace default
