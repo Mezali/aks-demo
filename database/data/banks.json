@@ -1,0 +1,938 @@
+[
+    {
+        "code": "000",
+        "name": "BANCO BANKPAR S.A."
+    },
+    {
+        "code": "001",
+        "name": "BANCO DO BRASIL S.A."
+    },
+    {
+        "code": "003",
+        "name": "BANCO DA AMAZONIA S.A."
+    },
+    {
+        "code": "004",
+        "name": "BANCO DO NORDESTE DO BRASIL S.A."
+    },
+    {
+        "code": "007",
+        "name": "BNDES"
+    },
+    {
+        "code": "010",
+        "name": "CREDICOAMO"
+    },
+    {
+        "code": "011",
+        "name": "C.SUISSE HEDGING-GRIFFO CV S/A"
+    },
+    {
+        "code": "012",
+        "name": "BANCO INBURSA"
+    },
+    {
+        "code": "014",
+        "name": "STATE STREET BR S.A. BANCO COMERCIAL"
+    },
+    {
+        "code": "015",
+        "name": "UBS BRASIL CCTVM S.A."
+    },
+    {
+        "code": "016",
+        "name": "CCM DESP TRÂNS SC E RS"
+    },
+    {
+        "code": "017",
+        "name": "BNY MELLON BANCO S.A."
+    },
+    {
+        "code": "018",
+        "name": "BANCO TRICURY S.A."
+    },
+    {
+        "code": "021",
+        "name": "BANCO BANESTES S.A."
+    },
+    {
+        "code": "024",
+        "name": "BANCO BANDEPE S.A."
+    },
+    {
+        "code": "025",
+        "name": "BANCO ALFA S.A."
+    },
+    {
+        "code": "029",
+        "name": "BANCO ITAÚ CONSIGNADO S.A."
+    },
+    {
+        "code": "033",
+        "name": "BANCO SANTANDER (BRASIL) S.A."
+    },
+    {
+        "code": "036",
+        "name": "BANCO BBI S.A."
+    },
+    {
+        "code": "037",
+        "name": "BANCO DO EST. DO PA S.A."
+    },
+    {
+        "code": "040",
+        "name": "BANCO CARGILL S.A."
+    },
+    {
+        "code": "041",
+        "name": "BANCO DO ESTADO DO RS S.A."
+    },
+    {
+        "code": "047",
+        "name": "BANCO DO EST. DE SE S.A."
+    },
+    {
+        "code": "060",
+        "name": "CONFIDENCE CC S.A."
+    },
+    {
+        "code": "062",
+        "name": "HIPERCARD BM S.A."
+    },
+    {
+        "code": "063",
+        "name": "BANCO BRADESCARD"
+    },
+    {
+        "code": "064",
+        "name": "GOLDMAN SACHS DO BRASIL BM S.A"
+    },
+    {
+        "code": "065",
+        "name": "BANCO ANDBANK S.A."
+    },
+    {
+        "code": "066",
+        "name": "BANCO MORGAN STANLEY S.A."
+    },
+    {
+        "code": "069",
+        "name": "BANCO CREFISA S.A."
+    },
+    {
+        "code": "070",
+        "name": "BRB - BANCO DE BRASILIA S.A."
+    },
+    {
+        "code": "074",
+        "name": "BANCO J.SAFRA S.A."
+    },
+    {
+        "code": "075",
+        "name": "BANCO ABN AMRO S.A."
+    },
+    {
+        "code": "076",
+        "name": "BANCO KDB BRASIL S.A."
+    },
+    {
+        "code": "077",
+        "name": "BANCO INTER"
+    },
+    {
+        "code": "078",
+        "name": "HAITONG BI DO BRASIL S.A."
+    },
+    {
+        "code": "079",
+        "name": "BANCO ORIGINAL DO AGRO S/A"
+    },
+    {
+        "code": "080",
+        "name": "B&amp;T CC LTDA."
+    },
+    {
+        "code": "081",
+        "name": "BANCOSEGURO S.A."
+    },
+    {
+        "code": "082",
+        "name": "BANCO TOPÁZIO S.A."
+    },
+    {
+        "code": "083",
+        "name": "BANCO DA CHINA BRASIL S.A."
+    },
+    {
+        "code": "084",
+        "name": "UNIPRIME NORTE DO PARANÁ - CC"
+    },
+    {
+        "code": "085",
+        "name": "COOP CENTRAL AILOS"
+    },
+    {
+        "code": "089",
+        "name": "CCR REG MOGIANA"
+    },
+    {
+        "code": "091",
+        "name": "CCCM UNICRED CENTRAL RS"
+    },
+    {
+        "code": "092",
+        "name": "BRK S.A. CFI"
+    },
+    {
+        "code": "093",
+        "name": "PÓLOCRED SCMEPP LTDA."
+    },
+    {
+        "code": "094",
+        "name": "BANCO FINAXIS"
+    },
+    {
+        "code": "095",
+        "name": "TRAVELEX BANCO DE CÂMBIO S.A."
+    },
+    {
+        "code": "096",
+        "name": "BANCO B3 S.A."
+    },
+    {
+        "code": "097",
+        "name": "CREDISIS CENTRAL DE COOPERATIVAS DE CRÉDITO LTDA."
+    },
+    {
+        "code": "098",
+        "name": "CREDIALIANÇA CCR"
+    },
+    {
+        "code": "099",
+        "name": "UNIPRIME CENTRAL CCC LTDA."
+    },
+    {
+        "code": "100",
+        "name": "PLANNER CV S.A."
+    },
+    {
+        "code": "101",
+        "name": "RENASCENCA DTVM LTDA"
+    },
+    {
+        "code": "102",
+        "name": "XP INVESTIMENTOS CCTVM S/A"
+    },
+    {
+        "code": "104",
+        "name": "CAIXA ECONOMICA FEDERAL"
+    },
+    {
+        "code": "105",
+        "name": "LECCA CFI S.A."
+    },
+    {
+        "code": "107",
+        "name": "BANCO BOCOM BBM S.A."
+    },
+    {
+        "code": "108",
+        "name": "PORTOCRED S.A. - CFI"
+    },
+    {
+        "code": "111",
+        "name": "OLIVEIRA TRUST DTVM S.A."
+    },
+    {
+        "code": "113",
+        "name": "MAGLIANO S.A. CCVM"
+    },
+    {
+        "code": "114",
+        "name": "CENTRAL COOPERATIVA DE CRÉDITO NO ESTADO DO ESPÍRITO SANTO"
+    },
+    {
+        "code": "117",
+        "name": "ADVANCED CC LTDA"
+    },
+    {
+        "code": "118",
+        "name": "STANDARD CHARTERED BI S.A."
+    },
+    {
+        "code": "119",
+        "name": "BANCO WESTERN UNION"
+    },
+    {
+        "code": "120",
+        "name": "BANCO RODOBENS S.A."
+    },
+    {
+        "code": "121",
+        "name": "BANCO AGIBANK S.A."
+    },
+    {
+        "code": "122",
+        "name": "BANCO BRADESCO BERJ S.A."
+    },
+    {
+        "code": "124",
+        "name": "BANCO WOORI BANK DO BRASIL S.A."
+    },
+    {
+        "code": "125",
+        "name": "PLURAL BANCO BM"
+    },
+    {
+        "code": "126",
+        "name": "BR PARTNERS BI"
+    },
+    {
+        "code": "127",
+        "name": "CODEPE CVC S.A."
+    },
+    {
+        "code": "128",
+        "name": "MS BANK S.A. BANCO DE CÂMBIO"
+    },
+    {
+        "code": "129",
+        "name": "UBS BRASIL BI S.A."
+    },
+    {
+        "code": "130",
+        "name": "CARUANA SCFI"
+    },
+    {
+        "code": "131",
+        "name": "TULLETT PREBON BRASIL CVC LTDA"
+    },
+    {
+        "code": "132",
+        "name": "ICBC DO BRASIL BM S.A."
+    },
+    {
+        "code": "133",
+        "name": "CRESOL CONFEDERAÇÃO"
+    },
+    {
+        "code": "134",
+        "name": "BGC LIQUIDEZ DTVM LTDA"
+    },
+    {
+        "code": "136",
+        "name": "UNICRED"
+    },
+    {
+        "code": "138",
+        "name": "GET MONEY CC LTDA"
+    },
+    {
+        "code": "139",
+        "name": "INTESA SANPAOLO BRASIL S.A. BM"
+    },
+    {
+        "code": "140",
+        "name": "EASYNVEST - TÍTULO CV SA"
+    },
+    {
+        "code": "142",
+        "name": "BROKER BRASIL CC LTDA."
+    },
+    {
+        "code": "143",
+        "name": "TREVISO CC S.A."
+    },
+    {
+        "code": "144",
+        "name": "BEXS BANCO DE CAMBIO S.A."
+    },
+    {
+        "code": "145",
+        "name": "LEVYCAM CCV LTDA"
+    },
+    {
+        "code": "146",
+        "name": "GUITTA CC LTDA"
+    },
+    {
+        "code": "149",
+        "name": "FACTA S.A. CFI"
+    },
+    {
+        "code": "157",
+        "name": "ICAP DO BRASIL CTVM LTDA."
+    },
+    {
+        "code": "159",
+        "name": "CASA CREDITO S.A. SCM"
+    },
+    {
+        "code": "163",
+        "name": "COMMERZBANK BRASIL S.A. - BANCO MÚLTIPLO"
+    },
+    {
+        "code": "169",
+        "name": "BANCO OLÉ BONSUCESSO CONSIGNADO S.A."
+    },
+    {
+        "code": "173",
+        "name": "BRL TRUST DTVM SA"
+    },
+    {
+        "code": "174",
+        "name": "PERNAMBUCANAS FINANC S.A. CFI"
+    },
+    {
+        "code": "177",
+        "name": "GUIDE"
+    },
+    {
+        "code": "180",
+        "name": "CM CAPITAL MARKETS CCTVM LTDA"
+    },
+    {
+        "code": "182",
+        "name": "DACASA FINANCEIRA S/A - SCFI"
+    },
+    {
+        "code": "183",
+        "name": "SOCRED SA - SCMEPP"
+    },
+    {
+        "code": "184",
+        "name": "BANCO ITAÚ BBA S.A."
+    },
+    {
+        "code": "188",
+        "name": "ATIVA S.A. INVESTIMENTOS CCTVM"
+    },
+    {
+        "code": "189",
+        "name": "HS FINANCEIRA"
+    },
+    {
+        "code": "190",
+        "name": "SERVICOOP"
+    },
+    {
+        "code": "191",
+        "name": "NOVA FUTURA CTVM LTDA."
+    },
+    {
+        "code": "194",
+        "name": "PARMETAL DTVM LTDA"
+    },
+    {
+        "code": "196",
+        "name": "FAIR CC S.A."
+    },
+    {
+        "code": "197",
+        "name": "STONE PAGAMENTOS S.A."
+    },
+    {
+        "code": "208",
+        "name": "BANCO BTG PACTUAL S.A."
+    },
+    {
+        "code": "212",
+        "name": "BANCO ORIGINAL"
+    },
+    {
+        "code": "213",
+        "name": "BANCO ARBI S.A."
+    },
+    {
+        "code": "217",
+        "name": "BANCO JOHN DEERE S.A."
+    },
+    {
+        "code": "218",
+        "name": "BANCO BS2 S.A."
+    },
+    {
+        "code": "222",
+        "name": "BANCO CRÉDIT AGRICOLE BR S.A."
+    },
+    {
+        "code": "224",
+        "name": "BANCO FIBRA S.A."
+    },
+    {
+        "code": "233",
+        "name": "BANCO CIFRA"
+    },
+    {
+        "code": "237",
+        "name": "BANCO BRADESCO S.A."
+    },
+    {
+        "code": "241",
+        "name": "BANCO CLASSICO S.A."
+    },
+    {
+        "code": "243",
+        "name": "BANCO MÁXIMA S.A."
+    },
+    {
+        "code": "246",
+        "name": "BANCO ABC BRASIL S.A."
+    },
+    {
+        "code": "249",
+        "name": "BANCO INVESTCRED UNIBANCO S.A."
+    },
+    {
+        "code": "250",
+        "name": "BCV"
+    },
+    {
+        "code": "253",
+        "name": "BEXS CC S.A."
+    },
+    {
+        "code": "254",
+        "name": "PARANA BANCO S.A."
+    },
+    {
+        "code": "260",
+        "name": "NU PAGAMENTOS S.A."
+    },
+    {
+        "code": "265",
+        "name": "BANCO FATOR S.A."
+    },
+    {
+        "code": "266",
+        "name": "BANCO CEDULA S.A."
+    },
+    {
+        "code": "268",
+        "name": "BARI CIA HIPOTECÁRIA"
+    },
+    {
+        "code": "269",
+        "name": "HSBC BANCO DE INVESTIMENTO"
+    },
+    {
+        "code": "270",
+        "name": "SAGITUR CC LTDA"
+    },
+    {
+        "code": "271",
+        "name": "IB CCTVM S.A."
+    },
+    {
+        "code": "272",
+        "name": "AGK CC S.A."
+    },
+    {
+        "code": "273",
+        "name": "CCR DE SÃO MIGUEL DO OESTE"
+    },
+    {
+        "code": "274",
+        "name": "MONEY PLUS SCMEPP LTDA"
+    },
+    {
+        "code": "276",
+        "name": "SENFF S.A. - CFI"
+    },
+    {
+        "code": "278",
+        "name": "GENIAL INVESTIMENTOS CVM S.A."
+    },
+    {
+        "code": "279",
+        "name": "CCR DE PRIMAVERA DO LESTE"
+    },
+    {
+        "code": "280",
+        "name": "AVISTA S.A. CFI"
+    },
+    {
+        "code": "281",
+        "name": "CCR COOPAVEL"
+    },
+    {
+        "code": "283",
+        "name": "RB CAPITAL INVESTIMENTOS DTVM LTDA."
+    },
+    {
+        "code": "285",
+        "name": "FRENTE CC LTDA."
+    },
+    {
+        "code": "286",
+        "name": "CCR DE OURO"
+    },
+    {
+        "code": "288",
+        "name": "CAROL DTVM LTDA."
+    },
+    {
+        "code": "289",
+        "name": "DECYSEO CC LTDA."
+    },
+    {
+        "code": "290",
+        "name": "PAGSEGURO"
+    },
+    {
+        "code": "292",
+        "name": "BS2 DTVM S.A."
+    },
+    {
+        "code": "293",
+        "name": "LASTRO RDV DTVM LTDA"
+    },
+    {
+        "code": "296",
+        "name": "VISION S.A. CC"
+    },
+    {
+        "code": "298",
+        "name": "VIPS CC LTDA."
+    },
+    {
+        "code": "299",
+        "name": "SOROCRED CFI S.A."
+    },
+    {
+        "code": "300",
+        "name": "BANCO LA NACION ARGENTINA"
+    },
+    {
+        "code": "301",
+        "name": "BPP IP S.A."
+    },
+    {
+        "code": "306",
+        "name": "PORTOPAR DTVM LTDA"
+    },
+    {
+        "code": "307",
+        "name": "TERRA INVESTIMENTOS DTVM"
+    },
+    {
+        "code": "309",
+        "name": "CAMBIONET CC LTDA"
+    },
+    {
+        "code": "310",
+        "name": "VORTX DTVM LTDA."
+    },
+    {
+        "code": "315",
+        "name": "PI DTVM S.A."
+    },
+    {
+        "code": "318",
+        "name": "BANCO BMG S.A."
+    },
+    {
+        "code": "319",
+        "name": "OM DTVM LTDA"
+    },
+    {
+        "code": "320",
+        "name": "BANCO CCB BRASIL S.A."
+    },
+    {
+        "code": "321",
+        "name": "CREFAZ SCMEPP LTDA"
+    },
+    {
+        "code": "322",
+        "name": "CCR DE ABELARDO LUZ"
+    },
+    {
+        "code": "323",
+        "name": "MERCADO PAGO"
+    },
+    {
+        "code": "325",
+        "name": "ÓRAMA DTVM S.A."
+    },
+    {
+        "code": "329",
+        "name": "QI SCD S.A."
+    },
+    {
+        "code": "330",
+        "name": "BANCO BARI S.A."
+    },
+    {
+        "code": "331",
+        "name": "FRAM CAPITAL DTVM S.A."
+    },
+    {
+        "code": "332",
+        "name": "ACESSO"
+    },
+    {
+        "code": "335",
+        "name": "BANCO DIGIO"
+    },
+    {
+        "code": "336",
+        "name": "BANCO C6 S.A."
+    },
+    {
+        "code": "340",
+        "name": "SUPER PAGAMENTOS E ADMINISTRACAO DE MEIOS ELETRONICOS S.A."
+    },
+    {
+        "code": "341",
+        "name": "ITAÚ UNIBANCO S.A."
+    },
+    {
+        "code": "342",
+        "name": "CREDITAS SCD"
+    },
+    {
+        "code": "343",
+        "name": "FFA SCMEPP LTDA."
+    },
+    {
+        "code": "348",
+        "name": "BANCO XP S.A."
+    },
+    {
+        "code": "349",
+        "name": "AMAGGI S.A. CFI"
+    },
+    {
+        "code": "352",
+        "name": "TORO CTVM LTDA"
+    },
+    {
+        "code": "354",
+        "name": "NECTON INVESTIMENTOS S.A CVM"
+    },
+    {
+        "code": "355",
+        "name": "ÓTIMO SCD S.A."
+    },
+    {
+        "code": "364",
+        "name": "GERENCIANET PAGAMENTOS DO BRASIL LTDA"
+    },
+    {
+        "code": "366",
+        "name": "BANCO SOCIETE GENERALE BRASIL"
+    },
+    {
+        "code": "370",
+        "name": "BANCO MIZUHO S.A."
+    },
+    {
+        "code": "376",
+        "name": "BANCO J.P. MORGAN S.A."
+    },
+    {
+        "code": "380",
+        "name": "PICPAY SERVIÇOS S.A."
+    },
+    {
+        "code": "389",
+        "name": "BANCO MERCANTIL DO BRASIL S.A."
+    },
+    {
+        "code": "394",
+        "name": "BANCO BRADESCO FINANC. S.A."
+    },
+    {
+        "code": "399",
+        "name": "KIRTON BANK"
+    },
+    {
+        "code": "403",
+        "name": "CORA SCD S.A."
+    },
+    {
+        "code": "412",
+        "name": "BANCO CAPITAL S.A."
+    },
+    {
+        "code": "422",
+        "name": "BANCO SAFRA S.A."
+    },
+    {
+        "code": "456",
+        "name": "BANCO MUFG BRASIL S.A."
+    },
+    {
+        "code": "464",
+        "name": "BANCO SUMITOMO MITSUI BRASIL S.A."
+    },
+    {
+        "code": "473",
+        "name": "BANCO CAIXA GERAL BRASIL S.A."
+    },
+    {
+        "code": "477",
+        "name": "CITIBANK N.A."
+    },
+    {
+        "code": "479",
+        "name": "BANCO ITAUBANK S.A."
+    },
+    {
+        "code": "487",
+        "name": "DEUTSCHE BANK S.A. BANCO ALEMAO"
+    },
+    {
+        "code": "488",
+        "name": "JPMORGAN CHASE BANK"
+    },
+    {
+        "code": "492",
+        "name": "ING BANK N.V."
+    },
+    {
+        "code": "495",
+        "name": "BANCO LA PROVINCIA B AIRES BCE"
+    },
+    {
+        "code": "505",
+        "name": "BANCO CREDIT SUISSE S.A."
+    },
+    {
+        "code": "545",
+        "name": "SENSO CCVM S.A."
+    },
+    {
+        "code": "600",
+        "name": "BANCO LUSO BRASILEIRO S.A."
+    },
+    {
+        "code": "604",
+        "name": "BANCO INDUSTRIAL DO BRASIL S.A."
+    },
+    {
+        "code": "610",
+        "name": "BANCO VR S.A."
+    },
+    {
+        "code": "611",
+        "name": "BANCO PAULISTA S.A."
+    },
+    {
+        "code": "612",
+        "name": "BANCO GUANABARA S.A."
+    },
+    {
+        "code": "613",
+        "name": "OMNI BANCO S.A."
+    },
+    {
+        "code": "623",
+        "name": "BANCO PAN"
+    },
+    {
+        "code": "626",
+        "name": "BANCO FICSA S.A."
+    },
+    {
+        "code": "630",
+        "name": "SMARTBANK"
+    },
+    {
+        "code": "633",
+        "name": "BANCO RENDIMENTO S.A."
+    },
+    {
+        "code": "634",
+        "name": "BANCO TRIANGULO S.A."
+    },
+    {
+        "code": "637",
+        "name": "BANCO SOFISA S.A."
+    },
+    {
+        "code": "643",
+        "name": "BANCO PINE S.A."
+    },
+    {
+        "code": "652",
+        "name": "ITAÚ UNIBANCO HOLDING S.A."
+    },
+    {
+        "code": "653",
+        "name": "BANCO INDUSVAL S.A."
+    },
+    {
+        "code": "654",
+        "name": "BANCO A.J. RENNER S.A."
+    },
+    {
+        "code": "655",
+        "name": "BANCO VOTORANTIM S.A."
+    },
+    {
+        "code": "707",
+        "name": "BANCO DAYCOVAL S.A"
+    },
+    {
+        "code": "712",
+        "name": "BANCO OURINVEST S.A."
+    },
+    {
+        "code": "739",
+        "name": "BANCO CETELEM S.A."
+    },
+    {
+        "code": "741",
+        "name": "BANCO RIBEIRAO PRETO S.A."
+    },
+    {
+        "code": "743",
+        "name": "BANCO SEMEAR"
+    },
+    {
+        "code": "745",
+        "name": "BANCO CITIBANK S.A."
+    },
+    {
+        "code": "746",
+        "name": "BANCO MODAL S.A."
+    },
+    {
+        "code": "747",
+        "name": "BANCO RABOBANK INTL BRASIL S.A."
+    },
+    {
+        "code": "748",
+        "name": "BANCO COOPERATIVO SICREDI S.A."
+    },
+    {
+        "code": "751",
+        "name": "SCOTIABANK BRASIL"
+    },
+    {
+        "code": "752",
+        "name": "BANCO BNP PARIBAS BRASIL S A"
+    },
+    {
+        "code": "753",
+        "name": "NOVO BANCO CONTINENTAL S.A. - BM"
+    },
+    {
+        "code": "754",
+        "name": "BANCO SISTEMA"
+    },
+    {
+        "code": "755",
+        "name": "BOFA MERRILL LYNCH BM S.A."
+    },
+    {
+        "code": "756",
+        "name": "BANCOOB"
+    },
+    {
+        "code": "757",
+        "name": "BANCO KEB HANA DO BRASIL S.A."
+    }
+]

@@ -1,0 +1,1406 @@
+[
+    {
+        "id": 2213,
+        "mtr_residue_groups_id": 51,
+        "name": "01 01 - Resíduos da mineração:",
+        "description": "Resíduos da mineração:"
+    },
+    {
+        "id": 2214,
+        "mtr_residue_groups_id": 52,
+        "name": "01 03 - Resíduos da transformação física e química de minérios metálicos:",
+        "description": "Resíduos da transformação física e química de minérios metálicos:"
+    },
+    {
+        "id": 2215,
+        "mtr_residue_groups_id": 51,
+        "name": "01 03 - Resíduos da transformação física e química de minérios metálicos:",
+        "description": "Resíduos da transformação física e química de minérios metálicos:"
+    },
+    {
+        "id": 2216,
+        "mtr_residue_groups_id": 52,
+        "name": "01 04 - Resíduos da transformação física e química de minérios não metálicos:",
+        "description": "Resíduos da transformação física e química de minérios não metálicos:"
+    },
+    {
+        "id": 2217,
+        "mtr_residue_groups_id": 51,
+        "name": "01 04 - Resíduos da transformação física e química de minérios não metálicos:",
+        "description": "Resíduos da transformação física e química de minérios não metálicos:"
+    },
+    {
+        "id": 2218,
+        "mtr_residue_groups_id": 51,
+        "name": "01 05 - Lodos e outros resíduos de perfuração:",
+        "description": "Lodos e outros resíduos de perfuração:"
+    },
+    {
+        "id": 2219,
+        "mtr_residue_groups_id": 52,
+        "name": "01 05 - Lodos e outros resíduos de perfuração:",
+        "description": "Lodos e outros resíduos de perfuração:"
+    },
+    {
+        "id": 2220,
+        "mtr_residue_groups_id": 53,
+        "name": "02 01 - Resíduos da agricultura, horticultura, aquicultura, silvicultura, caça e pesca:",
+        "description": "Resíduos da agricultura, horticultura, aquicultura, silvicultura, caça e pesca:"
+    },
+    {
+        "id": 2221,
+        "mtr_residue_groups_id": 54,
+        "name": "02 01 - Resíduos da agricultura, horticultura, aquicultura, silvicultura, caça e pesca:",
+        "description": "Resíduos da agricultura, horticultura, aquicultura, silvicultura, caça e pesca:"
+    },
+    {
+        "id": 2222,
+        "mtr_residue_groups_id": 53,
+        "name": "02 02 - Resíduos da preparação e processamento de carne, peixe e outros produtos alimentares de origem animal:",
+        "description": "Resíduos da preparação e processamento de carne, peixe e outros produtos alimentares de origem animal:"
+    },
+    {
+        "id": 2223,
+        "mtr_residue_groups_id": 53,
+        "name": "02 03 - Resíduos da preparação e processamento de frutos, legumes, cereais, óleos alimentares, cacau, café, chá e tabaco; resíduos da produção de conservas; resíduos da produção de levedura e extrato de levedura e da preparação e fermentação de melaços:",
+        "description": "Resíduos da preparação e processamento de frutos, legumes, cereais, óleos alimentares, cacau, café, chá e tabaco; resíduos da produção de conservas; resíduos da produção de levedura e extrato de levedura e da preparação e fermentação de melaços:"
+    },
+    {
+        "id": 2224,
+        "mtr_residue_groups_id": 53,
+        "name": "02 04 - Resíduos do processamento de açúcar:",
+        "description": "Resíduos do processamento de açúcar:"
+    },
+    {
+        "id": 2225,
+        "mtr_residue_groups_id": 53,
+        "name": "02 05 - Resíduos da indústria de lacticínios:",
+        "description": "Resíduos da indústria de lacticínios:"
+    },
+    {
+        "id": 2226,
+        "mtr_residue_groups_id": 53,
+        "name": "02 06 - Resíduos da indústria de panificação e confeitaria:",
+        "description": "Resíduos da indústria de panificação e confeitaria:"
+    },
+    {
+        "id": 2227,
+        "mtr_residue_groups_id": 53,
+        "name": "02 07 - Resíduos da produção de bebidas alcoólicas e não alcoólicas (excluindo café, chá e cacau): -",
+        "description": "Resíduos da produção de bebidas alcoólicas e não alcoólicas (excluindo café, chá e cacau): -"
+    },
+    {
+        "id": 2228,
+        "mtr_residue_groups_id": 55,
+        "name": "03 01 - Resíduos do processamento de madeira e fabricação de painéis e mobiliário:",
+        "description": "Resíduos do processamento de madeira e fabricação de painéis e mobiliário:"
+    },
+    {
+        "id": 2229,
+        "mtr_residue_groups_id": 56,
+        "name": "03 01 - Resíduos do processamento de madeira e fabricação de painéis e mobiliário:",
+        "description": "Resíduos do processamento de madeira e fabricação de painéis e mobiliário:"
+    },
+    {
+        "id": 2230,
+        "mtr_residue_groups_id": 56,
+        "name": "03 02 - Resíduos da preservação da madeira:",
+        "description": "Resíduos da preservação da madeira:"
+    },
+    {
+        "id": 2231,
+        "mtr_residue_groups_id": 55,
+        "name": "03 02 - Resíduos da preservação da madeira:",
+        "description": "Resíduos da preservação da madeira:"
+    },
+    {
+        "id": 2232,
+        "mtr_residue_groups_id": 55,
+        "name": "03 03 - Resíduos da produção e da transformação de papel e celulose:",
+        "description": "Resíduos da produção e da transformação de papel e celulose:"
+    },
+    {
+        "id": 2233,
+        "mtr_residue_groups_id": 57,
+        "name": "04 01 - Resíduos das indústrias do couro e produtos de couro:",
+        "description": "Resíduos das indústrias do couro e produtos de couro:"
+    },
+    {
+        "id": 2234,
+        "mtr_residue_groups_id": 58,
+        "name": "04 01 - Resíduos das indústrias do couro e produtos de couro:",
+        "description": "Resíduos das indústrias do couro e produtos de couro:"
+    },
+    {
+        "id": 2235,
+        "mtr_residue_groups_id": 57,
+        "name": "04 02 - Resíduos da indústria têxtil:",
+        "description": "Resíduos da indústria têxtil:"
+    },
+    {
+        "id": 2236,
+        "mtr_residue_groups_id": 58,
+        "name": "04 02 - Resíduos da indústria têxtil:",
+        "description": "Resíduos da indústria têxtil:"
+    },
+    {
+        "id": 2237,
+        "mtr_residue_groups_id": 59,
+        "name": "05 01 - Resíduos da refinação de petróleo:",
+        "description": "Resíduos da refinação de petróleo:"
+    },
+    {
+        "id": 2238,
+        "mtr_residue_groups_id": 60,
+        "name": "05 01 - Resíduos da refinação de petróleo:",
+        "description": "Resíduos da refinação de petróleo:"
+    },
+    {
+        "id": 2239,
+        "mtr_residue_groups_id": 59,
+        "name": "05 06 - Resíduos do tratamento pirolítico do carvão:",
+        "description": "Resíduos do tratamento pirolítico do carvão:"
+    },
+    {
+        "id": 2240,
+        "mtr_residue_groups_id": 60,
+        "name": "05 06 - Resíduos do tratamento pirolítico do carvão:",
+        "description": "Resíduos do tratamento pirolítico do carvão:"
+    },
+    {
+        "id": 2241,
+        "mtr_residue_groups_id": 59,
+        "name": "05 07 - Resíduos da purificação e transporte de gás natural:",
+        "description": "Resíduos da purificação e transporte de gás natural:"
+    },
+    {
+        "id": 2242,
+        "mtr_residue_groups_id": 60,
+        "name": "05 07 - Resíduos da purificação e transporte de gás natural:",
+        "description": "Resíduos da purificação e transporte de gás natural:"
+    },
+    {
+        "id": 2243,
+        "mtr_residue_groups_id": 61,
+        "name": "06 01 - Resíduos da fabricação, formulação, distribuição e utilização de ácidos:",
+        "description": "Resíduos da fabricação, formulação, distribuição e utilização de ácidos:"
+    },
+    {
+        "id": 2244,
+        "mtr_residue_groups_id": 62,
+        "name": "06 01 - Resíduos da fabricação, formulação, distribuição e utilização de ácidos:",
+        "description": "Resíduos da fabricação, formulação, distribuição e utilização de ácidos:"
+    },
+    {
+        "id": 2245,
+        "mtr_residue_groups_id": 61,
+        "name": "06 02 - Resíduos da fabricação, formulação, distribuição e utilização de bases:",
+        "description": "Resíduos da fabricação, formulação, distribuição e utilização de bases:"
+    },
+    {
+        "id": 2246,
+        "mtr_residue_groups_id": 62,
+        "name": "06 02 - Resíduos da fabricação, formulação, distribuição e utilização de bases:",
+        "description": "Resíduos da fabricação, formulação, distribuição e utilização de bases:"
+    },
+    {
+        "id": 2247,
+        "mtr_residue_groups_id": 61,
+        "name": "06 03 - Resíduos do fabricação, formulação, distribuição e utilização de sais e suas soluções e de óxidos metálicos:",
+        "description": "Resíduos do fabricação, formulação, distribuição e utilização de sais e suas soluções e de óxidos metálicos:"
+    },
+    {
+        "id": 2248,
+        "mtr_residue_groups_id": 62,
+        "name": "06 03 - Resíduos do fabricação, formulação, distribuição e utilização de sais e suas soluções e de óxidos metálicos:",
+        "description": "Resíduos do fabricação, formulação, distribuição e utilização de sais e suas soluções e de óxidos metálicos:"
+    },
+    {
+        "id": 2249,
+        "mtr_residue_groups_id": 61,
+        "name": "06 04 - Resíduos contendo metais não abrangidos em 06 03:",
+        "description": "Resíduos contendo metais não abrangidos em 06 03:"
+    },
+    {
+        "id": 2250,
+        "mtr_residue_groups_id": 62,
+        "name": "06 04 - Resíduos contendo metais não abrangidos em 06 03:",
+        "description": "Resíduos contendo metais não abrangidos em 06 03:"
+    },
+    {
+        "id": 2251,
+        "mtr_residue_groups_id": 61,
+        "name": "06 05 - Lodos do tratamento local de efluentes:",
+        "description": "Lodos do tratamento local de efluentes:"
+    },
+    {
+        "id": 2252,
+        "mtr_residue_groups_id": 62,
+        "name": "06 05 - Lodos do tratamento local de efluentes:",
+        "description": "Lodos do tratamento local de efluentes:"
+    },
+    {
+        "id": 2253,
+        "mtr_residue_groups_id": 61,
+        "name": "06 06 - Resíduos da fabricação, formulação, distribuição e utilização de produtos e processos químicos do enxofre e de processos de dessulfuração:",
+        "description": "Resíduos da fabricação, formulação, distribuição e utilização de produtos e processos químicos do enxofre e de processos de dessulfuração:"
+    },
+    {
+        "id": 2254,
+        "mtr_residue_groups_id": 62,
+        "name": "06 06 - Resíduos da fabricação, formulação, distribuição e utilização de produtos e processos químicos do enxofre e de processos de dessulfuração:",
+        "description": "Resíduos da fabricação, formulação, distribuição e utilização de produtos e processos químicos do enxofre e de processos de dessulfuração:"
+    },
+    {
+        "id": 2255,
+        "mtr_residue_groups_id": 61,
+        "name": "06 07 - Resíduos da fabricação, formulação, distribuição e utilização de halogênios e processos químicos dos halogênios:",
+        "description": "Resíduos da fabricação, formulação, distribuição e utilização de halogênios e processos químicos dos halogênios:"
+    },
+    {
+        "id": 2256,
+        "mtr_residue_groups_id": 62,
+        "name": "06 07 - Resíduos da fabricação, formulação, distribuição e utilização de halogênios e processos químicos dos halogênios:",
+        "description": "Resíduos da fabricação, formulação, distribuição e utilização de halogênios e processos químicos dos halogênios:"
+    },
+    {
+        "id": 2257,
+        "mtr_residue_groups_id": 62,
+        "name": "06 09 - Resíduos do fabricação, formulação, distribuição e utilização de produtos e processos químicos do fósforo:",
+        "description": "Resíduos do fabricação, formulação, distribuição e utilização de produtos e processos químicos do fósforo:"
+    },
+    {
+        "id": 2258,
+        "mtr_residue_groups_id": 61,
+        "name": "06 09 - Resíduos do fabricação, formulação, distribuição e utilização de produtos e processos químicos do fósforo:",
+        "description": "Resíduos do fabricação, formulação, distribuição e utilização de produtos e processos químicos do fósforo:"
+    },
+    {
+        "id": 2259,
+        "mtr_residue_groups_id": 62,
+        "name": "06 10 - Resíduos do fabricação, formulação, distribuição e utilização de produtos e processos químicos do azoto e da fabricação de fertilizantes:",
+        "description": "Resíduos do fabricação, formulação, distribuição e utilização de produtos e processos químicos do azoto e da fabricação de fertilizantes:"
+    },
+    {
+        "id": 2260,
+        "mtr_residue_groups_id": 61,
+        "name": "06 10 - Resíduos do fabricação, formulação, distribuição e utilização de produtos e processos químicos do azoto e da fabricação de fertilizantes:",
+        "description": "Resíduos do fabricação, formulação, distribuição e utilização de produtos e processos químicos do azoto e da fabricação de fertilizantes:"
+    },
+    {
+        "id": 2261,
+        "mtr_residue_groups_id": 62,
+        "name": "06 10 - Resíduos do fabricação, formulação, distribuição e utilização de produtos e processos químicos do azoto e da fabricação de fertilizantes:",
+        "description": "Resíduos da fabricação de pigmentos inorgânicos e opacificantes:"
+    },
+    {
+        "id": 2262,
+        "mtr_residue_groups_id": 62,
+        "name": "06 11 - Resíduos da fabricação de pigmentos inorgânicos e opacificantes:",
+        "description": "Resíduos da fabricação de pigmentos inorgânicos e opacificantes:"
+    },
+    {
+        "id": 2263,
+        "mtr_residue_groups_id": 61,
+        "name": "06 11 - Resíduos da fabricação de pigmentos inorgânicos e opacificantes:",
+        "description": "Resíduos da fabricação de pigmentos inorgânicos e opacificantes:"
+    },
+    {
+        "id": 2264,
+        "mtr_residue_groups_id": 62,
+        "name": "06 11 - Resíduos da fabricação de pigmentos inorgânicos e opacificantes:",
+        "description": "Resíduos de processos químicos inorgânicos não anteriormente especificados:"
+    },
+    {
+        "id": 2265,
+        "mtr_residue_groups_id": 61,
+        "name": "06 13 - Resíduos de processos químicos inorgânicos não anteriormente especificados:",
+        "description": "Resíduos de processos químicos inorgânicos não anteriormente especificados:"
+    },
+    {
+        "id": 2266,
+        "mtr_residue_groups_id": 62,
+        "name": "06 13 - Resíduos de processos químicos inorgânicos não anteriormente especificados:",
+        "description": "Resíduos de processos químicos inorgânicos não anteriormente especificados:"
+    },
+    {
+        "id": 2267,
+        "mtr_residue_groups_id": 62,
+        "name": "06 13 - Resíduos de processos químicos inorgânicos não anteriormente especificados:",
+        "description": "Resíduos da fabricação, formulação, distribuição e utilização de produtos químicos orgânicos de base:"
+    },
+    {
+        "id": 2268,
+        "mtr_residue_groups_id": 63,
+        "name": "07 01 - Resíduos da fabricação, formulação, distribuição e utilização de produtos químicos orgânicos de base:",
+        "description": "Resíduos da fabricação, formulação, distribuição e utilização de produtos químicos orgânicos de base:"
+    },
+    {
+        "id": 2269,
+        "mtr_residue_groups_id": 64,
+        "name": "07 01 - Resíduos da fabricação, formulação, distribuição e utilização de produtos químicos orgânicos de base:",
+        "description": "Resíduos da fabricação, formulação, distribuição e utilização de produtos químicos orgânicos de base:"
+    },
+    {
+        "id": 2270,
+        "mtr_residue_groups_id": 64,
+        "name": "07 01 - Resíduos da fabricação, formulação, distribuição e utilização de produtos químicos orgânicos de base:",
+        "description": "Resíduos do fabricação, formulação, distribuição e utilização de plásticos, borracha e fibras sintéticas:"
+    },
+    {
+        "id": 2271,
+        "mtr_residue_groups_id": 63,
+        "name": "07 02 - Resíduos do fabricação, formulação, distribuição e utilização de plásticos, borracha e fibras sintéticas:",
+        "description": "Resíduos do fabricação, formulação, distribuição e utilização de plásticos, borracha e fibras sintéticas:"
+    },
+    {
+        "id": 2272,
+        "mtr_residue_groups_id": 64,
+        "name": "07 02 - Resíduos do fabricação, formulação, distribuição e utilização de plásticos, borracha e fibras sintéticas:",
+        "description": "Resíduos do fabricação, formulação, distribuição e utilização de plásticos, borracha e fibras sintéticas:"
+    },
+    {
+        "id": 2273,
+        "mtr_residue_groups_id": 64,
+        "name": "07 02 - Resíduos do fabricação, formulação, distribuição e utilização de plásticos, borracha e fibras sintéticas:",
+        "description": "Resíduos do fabricação, formulação, distribuição e utilização de corantes e pigmentos orgânicos (exceto 06 11): -"
+    },
+    {
+        "id": 2274,
+        "mtr_residue_groups_id": 63,
+        "name": "07 03 - Resíduos do fabricação, formulação, distribuição e utilização de corantes e pigmentos orgânicos (exceto 06 11): -",
+        "description": "Resíduos do fabricação, formulação, distribuição e utilização de corantes e pigmentos orgânicos (exceto 06 11): -"
+    },
+    {
+        "id": 2275,
+        "mtr_residue_groups_id": 64,
+        "name": "07 03 - Resíduos do fabricação, formulação, distribuição e utilização de corantes e pigmentos orgânicos (exceto 06 11): -",
+        "description": "Resíduos do fabricação, formulação, distribuição e utilização de corantes e pigmentos orgânicos (exceto 06 11): -"
+    },
+    {
+        "id": 2276,
+        "mtr_residue_groups_id": 64,
+        "name": "07 03 - Resíduos do fabricação, formulação, distribuição e utilização de corantes e pigmentos orgânicos (exceto 06 11): -",
+        "description": "Resíduos do fabricação, formulação, distribuição e utilização de produtos orgânicos de proteção das plantas (exceto 02 01 08 e 02 01 09), agente de preservação da madeira (exceto 03 02) e outros biocidas:"
+    },
+    {
+        "id": 2277,
+        "mtr_residue_groups_id": 63,
+        "name": "07 04 - Resíduos do fabricação, formulação, distribuição e utilização de produtos orgânicos de proteção das plantas (exceto 02 01 08 e 02 01 09), agente de preservação da madeira (exceto 03 02) e outros biocidas:",
+        "description": "Resíduos do fabricação, formulação, distribuição e utilização de produtos orgânicos de proteção das plantas (exceto 02 01 08 e 02 01 09), agente de preservação da madeira (exceto 03 02) e outros biocidas:"
+    },
+    {
+        "id": 2278,
+        "mtr_residue_groups_id": 64,
+        "name": "07 04 - Resíduos do fabricação, formulação, distribuição e utilização de produtos orgânicos de proteção das plantas (exceto 02 01 08 e 02 01 09), agente de preservação da madeira (exceto 03 02) e outros biocidas:",
+        "description": "Resíduos do fabricação, formulação, distribuição e utilização de produtos orgânicos de proteção das plantas (exceto 02 01 08 e 02 01 09), agente de preservação da madeira (exceto 03 02) e outros biocidas:"
+    },
+    {
+        "id": 2279,
+        "mtr_residue_groups_id": 64,
+        "name": "07 04 - Resíduos do fabricação, formulação, distribuição e utilização de produtos orgânicos de proteção das plantas (exceto 02 01 08 e 02 01 09), agente de preservação da madeira (exceto 03 02) e outros biocidas:",
+        "description": "Resíduos da fabricação, formulação, distribuição e utilização de produtos farmacêuticos:"
+    },
+    {
+        "id": 2280,
+        "mtr_residue_groups_id": 63,
+        "name": "07 05 - Resíduos da fabricação, formulação, distribuição e utilização de produtos farmacêuticos:",
+        "description": "Resíduos da fabricação, formulação, distribuição e utilização de produtos farmacêuticos:"
+    },
+    {
+        "id": 2281,
+        "mtr_residue_groups_id": 64,
+        "name": "07 05 - Resíduos da fabricação, formulação, distribuição e utilização de produtos farmacêuticos:",
+        "description": "Resíduos da fabricação, formulação, distribuição e utilização de produtos farmacêuticos:"
+    },
+    {
+        "id": 2282,
+        "mtr_residue_groups_id": 64,
+        "name": "07 05 - Resíduos da fabricação, formulação, distribuição e utilização de produtos farmacêuticos:",
+        "description": "Resíduos da fabricação, formulação, distribuição e utilização de gorduras, sabões, detergentes, desinfetantes e cosméticos:"
+    },
+    {
+        "id": 2283,
+        "mtr_residue_groups_id": 63,
+        "name": "07 06 - Resíduos da fabricação, formulação, distribuição e utilização de gorduras, sabões, detergentes, desinfetantes e cosméticos:",
+        "description": "Resíduos da fabricação, formulação, distribuição e utilização de gorduras, sabões, detergentes, desinfetantes e cosméticos:"
+    },
+    {
+        "id": 2284,
+        "mtr_residue_groups_id": 64,
+        "name": "07 06 - Resíduos da fabricação, formulação, distribuição e utilização de gorduras, sabões, detergentes, desinfetantes e cosméticos:",
+        "description": "Resíduos da fabricação, formulação, distribuição e utilização de gorduras, sabões, detergentes, desinfetantes e cosméticos:"
+    },
+    {
+        "id": 2285,
+        "mtr_residue_groups_id": 64,
+        "name": "07 06 - Resíduos da fabricação, formulação, distribuição e utilização de gorduras, sabões, detergentes, desinfetantes e cosméticos:",
+        "description": "Resíduos da fabricação, formulação, distribuição e utilização da química fina e de produtos químicos não anteriormente especificados:"
+    },
+    {
+        "id": 2286,
+        "mtr_residue_groups_id": 63,
+        "name": "07 07 - Resíduos da fabricação, formulação, distribuição e utilização da química fina e de produtos químicos não anteriormente especificados:",
+        "description": "Resíduos da fabricação, formulação, distribuição e utilização da química fina e de produtos químicos não anteriormente especificados:"
+    },
+    {
+        "id": 2287,
+        "mtr_residue_groups_id": 64,
+        "name": "07 07 - Resíduos da fabricação, formulação, distribuição e utilização da química fina e de produtos químicos não anteriormente especificados:",
+        "description": "Resíduos da fabricação, formulação, distribuição e utilização da química fina e de produtos químicos não anteriormente especificados:"
+    },
+    {
+        "id": 2288,
+        "mtr_residue_groups_id": 64,
+        "name": "07 07 - Resíduos da fabricação, formulação, distribuição e utilização da química fina e de produtos químicos não anteriormente especificados:",
+        "description": "Resíduos da fabricação, formulação, distribuição e utilização e remoção de tintas e vernizes:"
+    },
+    {
+        "id": 2289,
+        "mtr_residue_groups_id": 65,
+        "name": "08 01 - Resíduos da fabricação, formulação, distribuição e utilização e remoção de tintas e vernizes:",
+        "description": "Resíduos da fabricação, formulação, distribuição e utilização e remoção de tintas e vernizes:"
+    },
+    {
+        "id": 2290,
+        "mtr_residue_groups_id": 66,
+        "name": "08 01 - Resíduos da fabricação, formulação, distribuição e utilização e remoção de tintas e vernizes:",
+        "description": "Resíduos da fabricação, formulação, distribuição e utilização e remoção de tintas e vernizes:"
+    },
+    {
+        "id": 2291,
+        "mtr_residue_groups_id": 66,
+        "name": "08 01 - Resíduos da fabricação, formulação, distribuição e utilização e remoção de tintas e vernizes:",
+        "description": "Resíduos da fabricação, formulação, distribuição e utilização de outros revestimentos  (incluindo materiais cerâmicos):"
+    },
+    {
+        "id": 2292,
+        "mtr_residue_groups_id": 66,
+        "name": "08 02 - Resíduos da fabricação, formulação, distribuição e utilização de outros revestimentos  (incluindo materiais cerâmicos):",
+        "description": "Resíduos da fabricação, formulação, distribuição e utilização de outros revestimentos  (incluindo materiais cerâmicos):"
+    },
+    {
+        "id": 2293,
+        "mtr_residue_groups_id": 65,
+        "name": "08 02 - Resíduos da fabricação, formulação, distribuição e utilização de outros revestimentos  (incluindo materiais cerâmicos):",
+        "description": "Resíduos da fabricação, formulação, distribuição e utilização de outros revestimentos  (incluindo materiais cerâmicos):"
+    },
+    {
+        "id": 2294,
+        "mtr_residue_groups_id": 66,
+        "name": "08 02 - Resíduos da fabricação, formulação, distribuição e utilização de outros revestimentos  (incluindo materiais cerâmicos):",
+        "description": "Resíduos da fabricação, formulação, distribuição e utilização de tintas de impressão:"
+    },
+    {
+        "id": 2295,
+        "mtr_residue_groups_id": 66,
+        "name": "08 03 - Resíduos da fabricação, formulação, distribuição e utilização de tintas de impressão:",
+        "description": "Resíduos da fabricação, formulação, distribuição e utilização de tintas de impressão:"
+    },
+    {
+        "id": 2296,
+        "mtr_residue_groups_id": 65,
+        "name": "08 03 - Resíduos da fabricação, formulação, distribuição e utilização de tintas de impressão:",
+        "description": "Resíduos da fabricação, formulação, distribuição e utilização de tintas de impressão:"
+    },
+    {
+        "id": 2297,
+        "mtr_residue_groups_id": 66,
+        "name": "08 03 - Resíduos da fabricação, formulação, distribuição e utilização de tintas de impressão:",
+        "description": "Resíduos da fabricação, formulação, distribuição e utilização de colas e vedantes (incluindo produtos impermeabilizantes):"
+    },
+    {
+        "id": 2298,
+        "mtr_residue_groups_id": 65,
+        "name": "08 04 Resíduos da fabricação, formulação, distribuição e utilização de colas e vedantes (incluindo produtos impermeabilizantes):  -",
+        "description": "Resíduos da fabricação, formulação, distribuição e utilização de colas e vedantes (incluindo produtos impermeabilizantes):"
+    },
+    {
+        "id": 2299,
+        "mtr_residue_groups_id": 66,
+        "name": "08 04 Resíduos da fabricação, formulação, distribuição e utilização de colas e vedantes (incluindo produtos impermeabilizantes):  -",
+        "description": "Resíduos da fabricação, formulação, distribuição e utilização de colas e vedantes (incluindo produtos impermeabilizantes):"
+    },
+    {
+        "id": 2300,
+        "mtr_residue_groups_id": 66,
+        "name": "08 04 Resíduos da fabricação, formulação, distribuição e utilização de colas e vedantes (incluindo produtos impermeabilizantes):  -",
+        "description": "Outros resíduos não anteriormente especificados em 08:"
+    },
+    {
+        "id": 2301,
+        "mtr_residue_groups_id": 65,
+        "name": "08 05 - Outros resíduos não anteriormente especificados em 08:",
+        "description": "Resíduos da indústria fotográfica:"
+    },
+    {
+        "id": 2302,
+        "mtr_residue_groups_id": 67,
+        "name": "09 01 - Resíduos da indústria fotográfica:",
+        "description": "Resíduos da indústria fotográfica:"
+    },
+    {
+        "id": 2303,
+        "mtr_residue_groups_id": 68,
+        "name": "09 01 - Resíduos da indústria fotográfica:",
+        "description": "Resíduos da indústria fotográfica:"
+    },
+    {
+        "id": 2304,
+        "mtr_residue_groups_id": 68,
+        "name": "09 01 - Resíduos da indústria fotográfica:",
+        "description": "Resíduos de centrais elétricas e de outras instalações de combustão (exceto 19):"
+    },
+    {
+        "id": 2305,
+        "mtr_residue_groups_id": 69,
+        "name": "10 01 - Resíduos de centrais elétricas e de outras instalações de combustão (exceto 19):",
+        "description": "Resíduos de centrais elétricas e de outras instalações de combustão (exceto 19):"
+    },
+    {
+        "id": 2306,
+        "mtr_residue_groups_id": 70,
+        "name": "10 01 - Resíduos de centrais elétricas e de outras instalações de combustão (exceto 19):",
+        "description": "Resíduos de centrais elétricas e de outras instalações de combustão (exceto 19):"
+    },
+    {
+        "id": 2307,
+        "mtr_residue_groups_id": 69,
+        "name": "10 01 - Resíduos de centrais elétricas e de outras instalações de combustão (exceto 19):",
+        "description": "Resíduos da indústria do ferro e do aço:"
+    },
+    {
+        "id": 2308,
+        "mtr_residue_groups_id": 69,
+        "name": "10 02 - Resíduos da indústria do ferro e do aço:",
+        "description": "Resíduos da indústria do ferro e do aço:"
+    },
+    {
+        "id": 2309,
+        "mtr_residue_groups_id": 70,
+        "name": "10 02 - Resíduos da indústria do ferro e do aço:",
+        "description": "Resíduos da indústria do ferro e do aço:"
+    },
+    {
+        "id": 2310,
+        "mtr_residue_groups_id": 69,
+        "name": "10 02 - Resíduos da indústria do ferro e do aço:",
+        "description": "Resíduos da pirometalurgia do alumínio:"
+    },
+    {
+        "id": 2311,
+        "mtr_residue_groups_id": 69,
+        "name": "10 03 - Resíduos da pirometalurgia do alumínio:",
+        "description": "Resíduos da pirometalurgia do alumínio:"
+    },
+    {
+        "id": 2312,
+        "mtr_residue_groups_id": 70,
+        "name": "10 03 - Resíduos da pirometalurgia do alumínio:",
+        "description": "Resíduos da pirometalurgia do alumínio:"
+    },
+    {
+        "id": 2313,
+        "mtr_residue_groups_id": 69,
+        "name": "10 03 - Resíduos da pirometalurgia do alumínio:",
+        "description": "Resíduos da pirometalurgia do chumbo:"
+    },
+    {
+        "id": 2314,
+        "mtr_residue_groups_id": 70,
+        "name": "10 04 - Resíduos da pirometalurgia do chumbo:",
+        "description": "Resíduos da pirometalurgia do chumbo:"
+    },
+    {
+        "id": 2315,
+        "mtr_residue_groups_id": 69,
+        "name": "10 04 - Resíduos da pirometalurgia do chumbo:",
+        "description": "Resíduos da pirometalurgia do chumbo:"
+    },
+    {
+        "id": 2316,
+        "mtr_residue_groups_id": 69,
+        "name": "10 04 - Resíduos da pirometalurgia do chumbo:",
+        "description": "Resíduos da pirometalurgia do zinco:"
+    },
+    {
+        "id": 2317,
+        "mtr_residue_groups_id": 69,
+        "name": "10 05 - Resíduos da pirometalurgia do zinco:",
+        "description": "Resíduos da pirometalurgia do zinco:"
+    },
+    {
+        "id": 2318,
+        "mtr_residue_groups_id": 70,
+        "name": "10 05 - Resíduos da pirometalurgia do zinco:",
+        "description": "Resíduos da pirometalurgia do zinco:"
+    },
+    {
+        "id": 2319,
+        "mtr_residue_groups_id": 69,
+        "name": "10 05 - Resíduos da pirometalurgia do zinco:",
+        "description": "Resíduos da pirometalurgia do cobre:"
+    },
+    {
+        "id": 2320,
+        "mtr_residue_groups_id": 69,
+        "name": "10 06 - Resíduos da pirometalurgia do cobre:",
+        "description": "Resíduos da pirometalurgia do cobre:"
+    },
+    {
+        "id": 2321,
+        "mtr_residue_groups_id": 70,
+        "name": "10 06 - Resíduos da pirometalurgia do cobre:",
+        "description": "Resíduos da pirometalurgia do cobre:"
+    },
+    {
+        "id": 2322,
+        "mtr_residue_groups_id": 69,
+        "name": "10 06 - Resíduos da pirometalurgia do cobre:",
+        "description": "Resíduos da pirometalurgia da prata, do ouro e da platina:"
+    },
+    {
+        "id": 2323,
+        "mtr_residue_groups_id": 69,
+        "name": "10 07 - Resíduos da pirometalurgia da prata, do ouro e da platina:",
+        "description": "Resíduos da pirometalurgia da prata, do ouro e da platina:"
+    },
+    {
+        "id": 2324,
+        "mtr_residue_groups_id": 70,
+        "name": "10 07 - Resíduos da pirometalurgia da prata, do ouro e da platina:",
+        "description": "Resíduos da pirometalurgia da prata, do ouro e da platina:"
+    },
+    {
+        "id": 2325,
+        "mtr_residue_groups_id": 69,
+        "name": "10 07 - Resíduos da pirometalurgia da prata, do ouro e da platina:",
+        "description": "Resíduos da pirometalurgia de outros metais não ferrosos:"
+    },
+    {
+        "id": 2326,
+        "mtr_residue_groups_id": 69,
+        "name": "10 08 - Resíduos da pirometalurgia de outros metais não ferrosos:",
+        "description": "Resíduos da pirometalurgia de outros metais não ferrosos:"
+    },
+    {
+        "id": 2327,
+        "mtr_residue_groups_id": 70,
+        "name": "10 08 - Resíduos da pirometalurgia de outros metais não ferrosos:",
+        "description": "Resíduos da pirometalurgia de outros metais não ferrosos:"
+    },
+    {
+        "id": 2328,
+        "mtr_residue_groups_id": 69,
+        "name": "10 08 - Resíduos da pirometalurgia de outros metais não ferrosos:",
+        "description": "Resíduos da fundição de peças ferrosas:"
+    },
+    {
+        "id": 2329,
+        "mtr_residue_groups_id": 69,
+        "name": "10 09 - Resíduos da fundição de peças ferrosas:",
+        "description": "Resíduos da fundição de peças ferrosas:"
+    },
+    {
+        "id": 2330,
+        "mtr_residue_groups_id": 70,
+        "name": "10 09 - Resíduos da fundição de peças ferrosas:",
+        "description": "Resíduos da fundição de peças ferrosas:"
+    },
+    {
+        "id": 2331,
+        "mtr_residue_groups_id": 69,
+        "name": "10 09 - Resíduos da fundição de peças ferrosas:",
+        "description": "Resíduos da fundição de peças não ferrosas:"
+    },
+    {
+        "id": 2332,
+        "mtr_residue_groups_id": 69,
+        "name": "10 10 - Resíduos da fundição de peças não ferrosas:",
+        "description": "Resíduos da fundição de peças não ferrosas:"
+    },
+    {
+        "id": 2333,
+        "mtr_residue_groups_id": 70,
+        "name": "10 10 - Resíduos da fundição de peças não ferrosas:",
+        "description": "Resíduos da fundição de peças não ferrosas:"
+    },
+    {
+        "id": 2334,
+        "mtr_residue_groups_id": 69,
+        "name": "10 10 - Resíduos da fundição de peças não ferrosas:",
+        "description": "Resíduos da fabricação do vidro e de produtos de vidro:"
+    },
+    {
+        "id": 2335,
+        "mtr_residue_groups_id": 69,
+        "name": "10 11 - Resíduos da fabricação do vidro e de produtos de vidro:",
+        "description": "Resíduos da fabricação do vidro e de produtos de vidro:"
+    },
+    {
+        "id": 2336,
+        "mtr_residue_groups_id": 70,
+        "name": "10 11 - Resíduos da fabricação do vidro e de produtos de vidro:",
+        "description": "Resíduos da fabricação do vidro e de produtos de vidro:"
+    },
+    {
+        "id": 2337,
+        "mtr_residue_groups_id": 69,
+        "name": "10 11 - Resíduos da fabricação do vidro e de produtos de vidro:",
+        "description": "Resíduos da fabricação de peças cerâmicas, tijolos, ladrilhos, telhas e produtos de construção:"
+    },
+    {
+        "id": 2338,
+        "mtr_residue_groups_id": 69,
+        "name": "10 12 - Resíduos da fabricação de peças cerâmicas, tijolos, ladrilhos, telhas e produtos de construção:",
+        "description": "Resíduos da fabricação de peças cerâmicas, tijolos, ladrilhos, telhas e produtos de construção:"
+    },
+    {
+        "id": 2339,
+        "mtr_residue_groups_id": 70,
+        "name": "10 12 - Resíduos da fabricação de peças cerâmicas, tijolos, ladrilhos, telhas e produtos de construção:",
+        "description": "Resíduos da fabricação de peças cerâmicas, tijolos, ladrilhos, telhas e produtos de construção:"
+    },
+    {
+        "id": 2340,
+        "mtr_residue_groups_id": 69,
+        "name": "10 12 - Resíduos da fabricação de peças cerâmicas, tijolos, ladrilhos, telhas e produtos de construção:",
+        "description": "Resíduos da fabricação de cimento, cal e gesso e de artigos e produtos fabricados a partir deles:"
+    },
+    {
+        "id": 2341,
+        "mtr_residue_groups_id": 69,
+        "name": "10 13 - Resíduos da fabricação de cimento, cal e gesso e de artigos e produtos fabricados a partir deles:",
+        "description": "Resíduos da fabricação de cimento, cal e gesso e de artigos e produtos fabricados a partir deles:"
+    },
+    {
+        "id": 2342,
+        "mtr_residue_groups_id": 70,
+        "name": "10 13 - Resíduos da fabricação de cimento, cal e gesso e de artigos e produtos fabricados a partir deles:",
+        "description": "Resíduos da fabricação de cimento, cal e gesso e de artigos e produtos fabricados a partir deles:"
+    },
+    {
+        "id": 2343,
+        "mtr_residue_groups_id": 69,
+        "name": "10 13 - Resíduos da fabricação de cimento, cal e gesso e de artigos e produtos fabricados a partir deles:",
+        "description": "Resíduos de crematórios:"
+    },
+    {
+        "id": 2344,
+        "mtr_residue_groups_id": 70,
+        "name": "10 14 - Resíduos de crematórios:",
+        "description": "Resíduos de tratamentos químicos de superfície e revestimentos de metais e outros materiais (por exemplo, galvanização, zincagem, decapagem, contrastação, fosfatação, desengorduramento alcalino, anodização):"
+    },
+    {
+        "id": 2345,
+        "mtr_residue_groups_id": 71,
+        "name": "11 01 - Resíduos de tratamentos químicos de superfície e revestimentos de metais e outros materiais (por exemplo, galvanização, zincagem, decapagem, contrastação, fosfatação, desengorduramento alcalino, anodização):",
+        "description": "Resíduos de tratamentos químicos de superfície e revestimentos de metais e outros materiais (por exemplo, galvanização, zincagem, decapagem, contrastação, fosfatação, desengorduramento alcalino, anodização):"
+    },
+    {
+        "id": 2346,
+        "mtr_residue_groups_id": 72,
+        "name": "11 01 - Resíduos de tratamentos químicos de superfície e revestimentos de metais e outros materiais (por exemplo, galvanização, zincagem, decapagem, contrastação, fosfatação, desengorduramento alcalino, anodização):",
+        "description": "Resíduos de tratamentos químicos de superfície e revestimentos de metais e outros materiais (por exemplo, galvanização, zincagem, decapagem, contrastação, fosfatação, desengorduramento alcalino, anodização):"
+    },
+    {
+        "id": 2347,
+        "mtr_residue_groups_id": 72,
+        "name": "11 01 - Resíduos de tratamentos químicos de superfície e revestimentos de metais e outros materiais (por exemplo, galvanização, zincagem, decapagem, contrastação, fosfatação, desengorduramento alcalino, anodização):",
+        "description": "Resíduos de processos hidrometalúrgicos de metais não ferrosos:"
+    },
+    {
+        "id": 2348,
+        "mtr_residue_groups_id": 71,
+        "name": "11 02 - Resíduos de processos hidrometalúrgicos de metais não ferrosos:",
+        "description": "Resíduos de processos hidrometalúrgicos de metais não ferrosos:"
+    },
+    {
+        "id": 2349,
+        "mtr_residue_groups_id": 72,
+        "name": "11 02 - Resíduos de processos hidrometalúrgicos de metais não ferrosos:",
+        "description": "Resíduos de processos hidrometalúrgicos de metais não ferrosos:"
+    },
+    {
+        "id": 2350,
+        "mtr_residue_groups_id": 72,
+        "name": "11 02 - Resíduos de processos hidrometalúrgicos de metais não ferrosos:",
+        "description": "Lodos e sólidos de processos de têmpera:"
+    },
+    {
+        "id": 2351,
+        "mtr_residue_groups_id": 71,
+        "name": "11 03 - Lodos e sólidos de processos de têmpera:",
+        "description": "Lodos e sólidos de processos de têmpera:"
+    },
+    {
+        "id": 2352,
+        "mtr_residue_groups_id": 71,
+        "name": "11 03 - Lodos e sólidos de processos de têmpera:",
+        "description": "Resíduos de processos de galvanização a quente:"
+    },
+    {
+        "id": 2353,
+        "mtr_residue_groups_id": 72,
+        "name": "11 05 - Resíduos de processos de galvanização a quente:",
+        "description": "Resíduos de processos de galvanização a quente:"
+    },
+    {
+        "id": 2354,
+        "mtr_residue_groups_id": 71,
+        "name": "11 05 - Resíduos de processos de galvanização a quente:",
+        "description": "Resíduos de processos de galvanização a quente:"
+    },
+    {
+        "id": 2355,
+        "mtr_residue_groups_id": 72,
+        "name": "11 05 - Resíduos de processos de galvanização a quente:",
+        "description": "Resíduos da moldagem e do tratamento físico e mecânico de superfície de metais e plásticos:"
+    },
+    {
+        "id": 2356,
+        "mtr_residue_groups_id": 73,
+        "name": "12 01 - Resíduos da moldagem e do tratamento físico e mecânico de superfície de metais e plásticos:",
+        "description": "Resíduos da moldagem e do tratamento físico e mecânico de superfície de metais e plásticos:"
+    },
+    {
+        "id": 2357,
+        "mtr_residue_groups_id": 74,
+        "name": "12 01 - Resíduos da moldagem e do tratamento físico e mecânico de superfície de metais e plásticos:",
+        "description": "Resíduos da moldagem e do tratamento físico e mecânico de superfície de metais e plásticos:"
+    },
+    {
+        "id": 2358,
+        "mtr_residue_groups_id": 73,
+        "name": "12 01 - Resíduos da moldagem e do tratamento físico e mecânico de superfície de metais e plásticos:",
+        "description": "Resíduos de processos de desengorduramento a água e a vapor (exceto 11):"
+    },
+    {
+        "id": 2359,
+        "mtr_residue_groups_id": 74,
+        "name": "12 03 - Resíduos de processos de desengorduramento a água e a vapor (exceto 11):",
+        "description": "Resíduos de processos de desengorduramento a água e a vapor (exceto 11):"
+    },
+    {
+        "id": 2360,
+        "mtr_residue_groups_id": 74,
+        "name": "12 03 - Resíduos de processos de desengorduramento a água e a vapor (exceto 11):",
+        "description": "Óleos hidráulicos usados:"
+    },
+    {
+        "id": 2361,
+        "mtr_residue_groups_id": 75,
+        "name": "13 01 - Óleos hidráulicos usados:",
+        "description": "Óleos hidráulicos usados:"
+    },
+    {
+        "id": 2362,
+        "mtr_residue_groups_id": 75,
+        "name": "13 01 - Óleos hidráulicos usados:",
+        "description": "Óleos de motores, transmissões e lubrificação usados ou contaminados:"
+    },
+    {
+        "id": 2363,
+        "mtr_residue_groups_id": 75,
+        "name": "13 02 - Óleos de motores, transmissões e lubrificação usados ou contaminados:",
+        "description": "Óleos de motores, transmissões e lubrificação usados ou contaminados:"
+    },
+    {
+        "id": 2364,
+        "mtr_residue_groups_id": 75,
+        "name": "13 02 - Óleos de motores, transmissões e lubrificação usados ou contaminados:",
+        "description": "Óleos isolantes, de refrigeração e de transmissão de calor usados:"
+    },
+    {
+        "id": 2365,
+        "mtr_residue_groups_id": 75,
+        "name": "13 03 - Óleos isolantes, de refrigeração e de transmissão de calor usados:",
+        "description": "Óleos isolantes, de refrigeração e de transmissão de calor usados:"
+    },
+    {
+        "id": 2366,
+        "mtr_residue_groups_id": 75,
+        "name": "13 03 - Óleos isolantes, de refrigeração e de transmissão de calor usados:",
+        "description": "Óleos bunker usados de navios:"
+    },
+    {
+        "id": 2367,
+        "mtr_residue_groups_id": 75,
+        "name": "13 04 - Óleos bunker usados de navios:",
+        "description": "Óleos bunker usados de navios:"
+    },
+    {
+        "id": 2368,
+        "mtr_residue_groups_id": 75,
+        "name": "13 04 - Óleos bunker usados de navios:",
+        "description": "Conteúdo de separadores óleo/água:"
+    },
+    {
+        "id": 2369,
+        "mtr_residue_groups_id": 75,
+        "name": "13 05 - Conteúdo de separadores óleo/água:",
+        "description": "Conteúdo de separadores óleo/água:"
+    },
+    {
+        "id": 2370,
+        "mtr_residue_groups_id": 75,
+        "name": "13 05 - Conteúdo de separadores óleo/água:",
+        "description": "Resíduos de combustíveis líquidos:"
+    },
+    {
+        "id": 2371,
+        "mtr_residue_groups_id": 75,
+        "name": "13 07 - Resíduos de combustíveis líquidos:",
+        "description": "Resíduos de combustíveis líquidos:"
+    },
+    {
+        "id": 2372,
+        "mtr_residue_groups_id": 75,
+        "name": "13 07 - Resíduos de combustíveis líquidos:",
+        "description": "Outros óleos usados não anteriormente especificados:"
+    },
+    {
+        "id": 2373,
+        "mtr_residue_groups_id": 75,
+        "name": "13 08 - Outros óleos usados não anteriormente especificados:",
+        "description": "Outros óleos usados não anteriormente especificados:"
+    },
+    {
+        "id": 2374,
+        "mtr_residue_groups_id": 75,
+        "name": "13 08 - Outros óleos usados não anteriormente especificados:",
+        "description": "Resíduos de solventes, fluidos de refrigeração e gases propulsores de espumas/ aerossóis orgânicos:"
+    },
+    {
+        "id": 2375,
+        "mtr_residue_groups_id": 76,
+        "name": "14 06 - Resíduos de solventes, fluidos de refrigeração e gases propulsores de espumas/ aerossóis orgânicos:",
+        "description": "Resíduos de solventes, fluidos de refrigeração e gases propulsores de espumas/ aerossóis orgânicos:"
+    },
+    {
+        "id": 2376,
+        "mtr_residue_groups_id": 76,
+        "name": "14 06 - Resíduos de solventes, fluidos de refrigeração e gases propulsores de espumas/ aerossóis orgânicos:",
+        "description": "Embalagens (incluindo resíduos urbanos e equiparados de embalagens, recolhidos separadamente)([ii]):"
+    },
+    {
+        "id": 2377,
+        "mtr_residue_groups_id": 77,
+        "name": "15 01 - Embalagens (incluindo resíduos urbanos e equiparados de embalagens, recolhidos separadamente)([ii]):",
+        "description": "Embalagens (incluindo resíduos urbanos e equiparados de embalagens, recolhidos separadamente)([ii]):"
+    },
+    {
+        "id": 2378,
+        "mtr_residue_groups_id": 78,
+        "name": "15 01 - Embalagens (incluindo resíduos urbanos e equiparados de embalagens, recolhidos separadamente)([ii]):",
+        "description": "Embalagens (incluindo resíduos urbanos e equiparados de embalagens, recolhidos separadamente)([ii]):"
+    },
+    {
+        "id": 2379,
+        "mtr_residue_groups_id": 78,
+        "name": "15 01 - Embalagens (incluindo resíduos urbanos e equiparados de embalagens, recolhidos separadamente)([ii]):",
+        "description": "Absorventes, materiais filtrantes, panos de limpeza e vestuário de proteção:"
+    },
+    {
+        "id": 2380,
+        "mtr_residue_groups_id": 78,
+        "name": "15 02 - Absorventes, materiais filtrantes, panos de limpeza e vestuário de proteção:",
+        "description": "Absorventes, materiais filtrantes, panos de limpeza e vestuário de proteção:"
+    },
+    {
+        "id": 2381,
+        "mtr_residue_groups_id": 77,
+        "name": "15 02 - Absorventes, materiais filtrantes, panos de limpeza e vestuário de proteção:",
+        "description": "Veículos em fim de vida de diferentes meios de transporte (incluindo máquinas todo o terreno) e resíduos do desmantelamento/desmanche de veículos em fim de vida e da manutenção de veículos (exceto 13, 14, 16 06 e 16 08):"
+    },
+    {
+        "id": 2382,
+        "mtr_residue_groups_id": 79,
+        "name": "16 01 - Veículos em fim de vida de diferentes meios de transporte (incluindo máquinas todo o terreno) e resíduos do desmantelamento/desmanche de veículos em fim de vida e da manutenção de veículos (exceto 13, 14, 16 06 e 16 08):",
+        "description": "Veículos em fim de vida de diferentes meios de transporte (incluindo máquinas todo o terreno) e resíduos do desmantelamento/desmanche de veículos em fim de vida e da manutenção de veículos (exceto 13, 14, 16 06 e 16 08):"
+    },
+    {
+        "id": 2383,
+        "mtr_residue_groups_id": 80,
+        "name": "16 01 - Veículos em fim de vida de diferentes meios de transporte (incluindo máquinas todo o terreno) e resíduos do desmantelamento/desmanche de veículos em fim de vida e da manutenção de veículos (exceto 13, 14, 16 06 e 16 08):",
+        "description": "Veículos em fim de vida de diferentes meios de transporte (incluindo máquinas todo o terreno) e resíduos do desmantelamento/desmanche de veículos em fim de vida e da manutenção de veículos (exceto 13, 14, 16 06 e 16 08):"
+    },
+    {
+        "id": 2384,
+        "mtr_residue_groups_id": 80,
+        "name": "16 01 - Veículos em fim de vida de diferentes meios de transporte (incluindo máquinas todo o terreno) e resíduos do desmantelamento/desmanche de veículos em fim de vida e da manutenção de veículos (exceto 13, 14, 16 06 e 16 08):",
+        "description": "Resíduos de equipamento elétrico e eletrônico:"
+    },
+    {
+        "id": 2385,
+        "mtr_residue_groups_id": 79,
+        "name": "16 02 - Resíduos de equipamento elétrico e eletrônico:",
+        "description": "Resíduos de equipamento elétrico e eletrônico:"
+    },
+    {
+        "id": 2386,
+        "mtr_residue_groups_id": 80,
+        "name": "16 02 - Resíduos de equipamento elétrico e eletrônico:",
+        "description": "Resíduos de equipamento elétrico e eletrônico:"
+    },
+    {
+        "id": 2387,
+        "mtr_residue_groups_id": 80,
+        "name": "16 02 - Resíduos de equipamento elétrico e eletrônico:",
+        "description": "Produtos fora de especificação e produtos vencidos ou não utilizados:"
+    },
+    {
+        "id": 2388,
+        "mtr_residue_groups_id": 79,
+        "name": "16 03 - Produtos fora de especificação e produtos vencidos ou não utilizados:",
+        "description": "Produtos fora de especificação e produtos vencidos ou não utilizados:"
+    },
+    {
+        "id": 2389,
+        "mtr_residue_groups_id": 80,
+        "name": "16 03 - Produtos fora de especificação e produtos vencidos ou não utilizados:",
+        "description": "Produtos fora de especificação e produtos vencidos ou não utilizados:"
+    },
+    {
+        "id": 2390,
+        "mtr_residue_groups_id": 80,
+        "name": "16 03 - Produtos fora de especificação e produtos vencidos ou não utilizados:",
+        "description": "Resíduos de explosivos:"
+    },
+    {
+        "id": 2391,
+        "mtr_residue_groups_id": 79,
+        "name": "16 04 - Resíduos de explosivos:",
+        "description": "Resíduos de explosivos:"
+    },
+    {
+        "id": 2392,
+        "mtr_residue_groups_id": 79,
+        "name": "16 04 - Resíduos de explosivos:",
+        "description": "Gases em recipientes sob pressão e produtos químicos fora de uso:"
+    },
+    {
+        "id": 2393,
+        "mtr_residue_groups_id": 79,
+        "name": "16 05 - Gases em recipientes sob pressão e produtos químicos fora de uso:",
+        "description": "Gases em recipientes sob pressão e produtos químicos fora de uso:"
+    },
+    {
+        "id": 2394,
+        "mtr_residue_groups_id": 80,
+        "name": "16 05 - Gases em recipientes sob pressão e produtos químicos fora de uso:",
+        "description": "Gases em recipientes sob pressão e produtos químicos fora de uso:"
+    },
+    {
+        "id": 2395,
+        "mtr_residue_groups_id": 80,
+        "name": "16 05 - Gases em recipientes sob pressão e produtos químicos fora de uso:",
+        "description": "Pilhas, baterias e acumuladores elétricos:"
+    },
+    {
+        "id": 2396,
+        "mtr_residue_groups_id": 79,
+        "name": "16 06 - Pilhas, baterias e acumuladores elétricos:",
+        "description": "Pilhas, baterias e acumuladores elétricos:"
+    },
+    {
+        "id": 2397,
+        "mtr_residue_groups_id": 80,
+        "name": "16 06 - Pilhas, baterias e acumuladores elétricos:",
+        "description": "Pilhas, baterias e acumuladores elétricos:"
+    },
+    {
+        "id": 2398,
+        "mtr_residue_groups_id": 79,
+        "name": "16 06 - Pilhas, baterias e acumuladores elétricos:",
+        "description": "Resíduos da limpeza de tanques de transporte, de depósitos de armazenagem e de barris (exceto 05 e 13):"
+    },
+    {
+        "id": 2399,
+        "mtr_residue_groups_id": 79,
+        "name": "16 07 - Resíduos da limpeza de tanques de transporte, de depósitos de armazenagem e de barris (exceto 05 e 13):",
+        "description": "Resíduos da limpeza de tanques de transporte, de depósitos de armazenagem e de barris (exceto 05 e 13):"
+    },
+    {
+        "id": 2400,
+        "mtr_residue_groups_id": 80,
+        "name": "16 07 - Resíduos da limpeza de tanques de transporte, de depósitos de armazenagem e de barris (exceto 05 e 13):",
+        "description": "Catalisadores usados:"
+    },
+    {
+        "id": 2401,
+        "mtr_residue_groups_id": 80,
+        "name": "16 08 - Catalisadores usados:",
+        "description": "Catalisadores usados:"
+    },
+    {
+        "id": 2402,
+        "mtr_residue_groups_id": 79,
+        "name": "16 08 - Catalisadores usados:",
+        "description": "Catalisadores usados:"
+    },
+    {
+        "id": 2403,
+        "mtr_residue_groups_id": 79,
+        "name": "16 08 - Catalisadores usados:",
+        "description": "Substâncias oxidantes:"
+    },
+    {
+        "id": 2404,
+        "mtr_residue_groups_id": 79,
+        "name": "16 09 - Substâncias oxidantes:",
+        "description": "Substâncias oxidantes:"
+    },
+    {
+        "id": 2405,
+        "mtr_residue_groups_id": 79,
+        "name": "16 09 - Substâncias oxidantes:",
+        "description": "Resíduos líquidos aquosos destinados a serem tratados noutro local:"
+    },
+    {
+        "id": 2406,
+        "mtr_residue_groups_id": 79,
+        "name": "16 10 - Resíduos líquidos aquosos destinados a serem tratados noutro local:",
+        "description": "Resíduos líquidos aquosos destinados a serem tratados noutro local:"
+    },
+    {
+        "id": 2407,
+        "mtr_residue_groups_id": 80,
+        "name": "16 10 - Resíduos líquidos aquosos destinados a serem tratados noutro local:",
+        "description": "Resíduos líquidos aquosos destinados a serem tratados noutro local:"
+    },
+    {
+        "id": 2408,
+        "mtr_residue_groups_id": 80,
+        "name": "16 10 - Resíduos líquidos aquosos destinados a serem tratados noutro local:",
+        "description": "Resíduos de revestimentos de fornos e refratários:"
+    },
+    {
+        "id": 2409,
+        "mtr_residue_groups_id": 79,
+        "name": "16 11 - Resíduos de revestimentos de fornos e refratários:",
+        "description": "Resíduos de revestimentos de fornos e refratários:"
+    },
+    {
+        "id": 2410,
+        "mtr_residue_groups_id": 80,
+        "name": "16 11 - Resíduos de revestimentos de fornos e refratários:",
+        "description": "Resíduos de revestimentos de fornos e refratários:"
+    },
+    {
+        "id": 2411,
+        "mtr_residue_groups_id": 80,
+        "name": "16 11 - Resíduos de revestimentos de fornos e refratários:",
+        "description": "16 11 - Resíduos de revestimentos de fornos e refratários:"
+    },
+    {
+        "id": 2412,
+        "mtr_residue_groups_id": 81,
+        "name": "Classe A - CONAMA Nº 307/2002",
+        "description": "São os resíduos reutilizáveis ou recicláveis como agregados."
+    },
+    {
+        "id": 2413,
+        "mtr_residue_groups_id": 82,
+        "name": "Classe D - CONAMA Nº 307/2002",
+        "description": "São resíduos perigosos oriundos do processo de construção, tais como tintas, solventes, óleos e outros ou aqueles contaminados ou prejudiciais à saúde oriundos de demolições, reformas e reparos de clínicas radiológicas, instalações industriais e outros, bem como telhas e demais objetos e materiais que contenham amianto ou outros produtos nocivos à saúde. (Redação dada pela Resolução n° 348/04)"
+    },
+    {
+        "id": 2414,
+        "mtr_residue_groups_id": 81,
+        "name": "Classe B - CONAMA Nº 307/2002",
+        "description": "São os resíduos recicláveis para outras destinações, tais como plásticos, papel, papelão, metais, vidros, madeiras, embalagens vazias de tintas imobiliárias e gesso; (Redação dada pela Resolução nº 469/2015)."
+    },
+    {
+        "id": 2415,
+        "mtr_residue_groups_id": 81,
+        "name": "Classe C - CONAMA Nº 307/2002",
+        "description": "São os resíduos para os quais não foram desenvolvidas tecnologias ou aplicações economicamente viáveis que permitam a sua reciclagem ou recuperação; (Redação dada pela Resolução n° 431/11)."
+    },
+    {
+        "id": 2416,
+        "mtr_residue_groups_id": 83,
+        "name": "GRUPO A (ANVISA RDC Nº 306/2004 e Nº222/2018)",
+        "description": "Resíduos com a possível presença de agentes biológicos que, por suas características de maior virulência, infectividade e concentração, podem apresentar risco de patógenos."
+    },
+    {
+        "id": 2417,
+        "mtr_residue_groups_id": 83,
+        "name": "GRUPO B (ANVISA RDC Nº 306/2004 e Nº222/2018)",
+        "description": "Químicos: Resíduos contendo substâncias químicas que dependendo de suas características de inflamabilidade, toxidade, corrosividade e reatividade podem apresentar riscos à saúde"
+    },
+    {
+        "id": 2418,
+        "mtr_residue_groups_id": 83,
+        "name": "GRUPO C (ANVISA RDC Nº 306/2004 e Nº222/2018)",
+        "description": "Radioativos: Quaisquer materiais resultantes de atividades humanas que contenham radionuclídeos em quantidades superiores aos limites de eliminação especificados nas normas da Comissão Nacional de Energia Nuclear-CNEN e para os quais a reutilização é imprópria ou não prevista."
+    },
+    {
+        "id": 2419,
+        "mtr_residue_groups_id": 83,
+        "name": "GRUPO E (ANVISA RDC Nº 306/2004 e Nº222/2018)",
+        "description": "Materiais perfurocortantes ou escarificantes;"
+    },
+    {
+        "id": 2420,
+        "mtr_residue_groups_id": 84,
+        "name": "19 01 - Resíduos da incineração ou pirólise de resíduos:",
+        "description": "Resíduos da incineração ou pirólise de resíduos:"
+    },
+    {
+        "id": 2421,
+        "mtr_residue_groups_id": 85,
+        "name": "19 01 - Resíduos da incineração ou pirólise de resíduos:",
+        "description": "Resíduos da incineração ou pirólise de resíduos:"
+    },
+    {
+        "id": 2422,
+        "mtr_residue_groups_id": 84,
+        "name": "19 02 - Resíduos de tratamentos físico-químicos de resíduos (por exemplo, descromagem, descianetização, neutralização):",
+        "description": "Resíduos de tratamentos físico-químicos de resíduos (por exemplo, descromagem, descianetização, neutralização):"
+    },
+    {
+        "id": 2423,
+        "mtr_residue_groups_id": 85,
+        "name": "19 02 - Resíduos de tratamentos físico-químicos de resíduos (por exemplo, descromagem, descianetização, neutralização):",
+        "description": "Resíduos de tratamentos físico-químicos de resíduos (por exemplo, descromagem, descianetização, neutralização):"
+    },
+    {
+        "id": 2424,
+        "mtr_residue_groups_id": 85,
+        "name": "19 03 - Resíduos solidificados/estabilizados:",
+        "description": "Resíduos solidificados/estabilizados:"
+    },
+    {
+        "id": 2425,
+        "mtr_residue_groups_id": 84,
+        "name": "19 03 - Resíduos solidificados/estabilizados:",
+        "description": "Resíduos solidificados/estabilizados:"
+    },
+    {
+        "id": 2426,
+        "mtr_residue_groups_id": 84,
+        "name": "19 04 - Resíduos vitrificados e resíduos da vitrificação:",
+        "description": "Resíduos vitrificados e resíduos da vitrificação:"
+    },
+    {
+        "id": 2427,
+        "mtr_residue_groups_id": 85,
+        "name": "19 04 - Resíduos vitrificados e resíduos da vitrificação:",
+        "description": "Resíduos vitrificados e resíduos da vitrificação:"
+    },
+    {
+        "id": 2428,
+        "mtr_residue_groups_id": 84,
+        "name": "19 05 - Resíduos do tratamento aeróbio de resíduos sólidos:",
+        "description": "Resíduos do tratamento aeróbio de resíduos sólidos:"
+    },
+    {
+        "id": 2429,
+        "mtr_residue_groups_id": 84,
+        "name": "19 06 - Resíduos do tratamento anaeróbio de resíduos:",
+        "description": "Resíduos do tratamento anaeróbio de resíduos:"
+    },
+    {
+        "id": 2430,
+        "mtr_residue_groups_id": 85,
+        "name": "19 07 - Lixiviados de aterros:",
+        "description": "Lixiviados de aterros:"
+    },
+    {
+        "id": 2431,
+        "mtr_residue_groups_id": 84,
+        "name": "19 07 - Lixiviados de aterros:",
+        "description": "Lixiviados de aterros:"
+    },
+    {
+        "id": 2432,
+        "mtr_residue_groups_id": 84,
+        "name": "19 08 - Resíduos de estações de tratamento de efluentes (ETE) não anteriormente especificados:",
+        "description": "Resíduos de estações de tratamento de efluentes (ETE) não anteriormente especificados:"
+    },
+    {
+        "id": 2433,
+        "mtr_residue_groups_id": 85,
+        "name": "19 08 - Resíduos de estações de tratamento de efluentes (ETE) não anteriormente especificados:",
+        "description": "Resíduos de estações de tratamento de efluentes (ETE) não anteriormente especificados:"
+    },
+    {
+        "id": 2434,
+        "mtr_residue_groups_id": 84,
+        "name": "19 09 - Resíduos de estações de tratamento de água (ETA) para consumo humano ou de água para consumo industrial:",
+        "description": "Resíduos de estações de tratamento de água (ETA) para consumo humano ou de água para consumo industrial:"
+    },
+    {
+        "id": 2435,
+        "mtr_residue_groups_id": 84,
+        "name": "19 10 - Resíduos da trituração de resíduos contendo metais:",
+        "description": "Resíduos da trituração de resíduos contendo metais:"
+    },
+    {
+        "id": 2436,
+        "mtr_residue_groups_id": 85,
+        "name": "19 10 - Resíduos da trituração de resíduos contendo metais:",
+        "description": "Resíduos da trituração de resíduos contendo metais:"
+    },
+    {
+        "id": 2437,
+        "mtr_residue_groups_id": 85,
+        "name": "19 11 - Resíduos da regeneração de óleos:",
+        "description": "Resíduos da regeneração de óleos:"
+    },
+    {
+        "id": 2438,
+        "mtr_residue_groups_id": 84,
+        "name": "19 11 - Resíduos da regeneração de óleos:",
+        "description": "Resíduos da regeneração de óleos:"
+    },
+    {
+        "id": 2439,
+        "mtr_residue_groups_id": 84,
+        "name": "19 12 - Resíduos do tratamento mecânico de resíduos (por exemplo, triagem, trituração, compactação, peletização) não anteriormente especificados:",
+        "description": "Resíduos do tratamento mecânico de resíduos (por exemplo, triagem, trituração, compactação, peletização) não anteriormente especificados:"
+    },
+    {
+        "id": 2440,
+        "mtr_residue_groups_id": 85,
+        "name": "19 12 - Resíduos do tratamento mecânico de resíduos (por exemplo, triagem, trituração, compactação, peletização) não anteriormente especificados:",
+        "description": "Resíduos do tratamento mecânico de resíduos (por exemplo, triagem, trituração, compactação, peletização) não anteriormente especificados:"
+    },
+    {
+        "id": 2441,
+        "mtr_residue_groups_id": 85,
+        "name": "19 13 - Resíduos da descontaminação de solos e águas freáticas:",
+        "description": "Resíduos da descontaminação de solos e águas freáticas:"
+    },
+    {
+        "id": 2442,
+        "mtr_residue_groups_id": 84,
+        "name": "19 13 - Resíduos da descontaminação de solos e águas freáticas:",
+        "description": "Resíduos da descontaminação de solos e águas freáticas:"
+    },
+    {
+        "id": 2443,
+        "mtr_residue_groups_id": 86,
+        "name": "20 01 - Resíduos provenientes da coleta seletiva de resíduos sólidos urbanos (exceto 15 01):",
+        "description": "Resíduos provenientes da coleta seletiva de resíduos sólidos urbanos (exceto 15 01):"
+    },
+    {
+        "id": 2444,
+        "mtr_residue_groups_id": 87,
+        "name": "20 01 - Resíduos provenientes da coleta seletiva de resíduos sólidos urbanos (exceto 15 01):",
+        "description": "Resíduos provenientes da coleta seletiva de resíduos sólidos urbanos (exceto 15 01):"
+    },
+    {
+        "id": 2445,
+        "mtr_residue_groups_id": 86,
+        "name": "20 02 - Resíduos de limpeza urbana:",
+        "description": "Resíduos de limpeza urbana:"
+    },
+    {
+        "id": 2446,
+        "mtr_residue_groups_id": 86,
+        "name": "20 03 - Outros resíduos dos serviços públicos de saneamento básico e equiparados:",
+        "description": "Outros resíduos dos serviços públicos de saneamento básico e equiparados:"
+    }
+]

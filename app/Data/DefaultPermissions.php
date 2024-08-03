@@ -1,0 +1,220 @@
+<?php
+
+namespace App\Data;
+
+use App\Enums\ProfileTypeEnum;
+
+class DefaultPermissions
+{
+    public static function get(ProfileTypeEnum $profile)
+    {
+        switch ($profile) {
+            case ProfileTypeEnum::ADMIN():
+                return [
+                    'eqp.trash',
+                    'eqp.list',
+                    'eqp.rec',
+                    'eqp.del',
+                    'eqp.edit',
+                    'eqp.add',
+                    'cdd.add',
+                    'cdd.edit',
+                    'cdd.del',
+                    'cdd.rec',
+                    'cdd.list',
+                    'cdd.trash',
+                    'etd.add',
+                    'etd.edit',
+                    'etd.del',
+                    'etd.rec',
+                    'etd.list',
+                    'etd.trash',
+                    'mcm.trash',
+                    'mcm.list',
+                    'mcm.rec',
+                    'mcm.del',
+                    'mcm.edit',
+                    'mcm.add',
+                    'rsd.add',
+                    'rsd.edit',
+                    'rsd.del',
+                    'rsd.rec',
+                    'rsd.list',
+                    'rsd.trash',
+                    'lcd.add',
+                    'lcd.edit',
+                    'lcd.del',
+                    'lcd.rec',
+                    'lcd.list',
+                    'lcd.trash',
+                    'lct.add',
+                    'lct.edit',
+                    'lct.del',
+                    'lct.rec',
+                    'lct.list',
+                    'lct.trash',
+                    'tvc.add',
+                    'tvc.edit',
+                    'tvc.del',
+                    'tvc.rec',
+                    'tvc.list',
+                    'tvc.trash',
+                    'mmt.list',
+                ];
+                break;
+            case ProfileTypeEnum::CUSTOMER():
+                return [
+                    'med.trash',
+                    'med.list',
+                    'med.rec',
+                    'med.del',
+                    'med.edit',
+                    'med.add',
+                    'mpd.add',
+                    'mpd.list',
+                    'mpd.edit',
+                    'mcb.list',
+                    'mcb.edit',
+                    'dsh.clnOp',
+                    'dsh.clnFn',
+                    'add.add',
+                    'add.edit',
+                    'add.del',
+                    'add.rec',
+                    'add.list',
+                    'add.trash',
+                    'eqp.trash',
+                    'eqp.list',
+                    'eqp.rec',
+                    'eqp.del',
+                    'eqp.edit',
+                    'eqp.add',
+                ];
+                break;
+            case ProfileTypeEnum::LEGAL_CUSTOMER():
+                return [
+                    'med.trash',
+                    'med.list',
+                    'med.rec',
+                    'med.del',
+                    'med.edit',
+                    'med.add',
+                    'mpd.add',
+                    'mpd.list',
+                    'mpd.edit',
+                    'mcb.list',
+                    'mcb.edit',
+                    'eqp.trash',
+                    'eqp.list',
+                    'eqp.rec',
+                    'eqp.del',
+                    'eqp.edit',
+                    'eqp.add',
+                    'dsh.clnOp',
+                    'dsh.clnFn',
+                    'add.add',
+                    'add.edit',
+                    'add.del',
+                    'add.rec',
+                    'add.list',
+                    'add.trash',
+                ];
+                break;
+            case ProfileTypeEnum::SELLER():
+                return [
+                    'vpr.list',
+                    'vpr.edit',
+                    'vep.list',
+                    'vep.edit',
+                    'vtl.list',
+                    'vlc.list',
+                    'vrp.list',
+                    'vrp.edit',
+                    'vtd.list',
+                    'cmb.trash',
+                    'cmb.rec',
+                    'cmb.list',
+                    'cmb.edit',
+                    'cmb.del',
+                    'cmb.add',
+                    'vcl.trash',
+                    'vcl.rec',
+                    'vcl.list',
+                    'vcl.edit',
+                    'vcl.del',
+                    'vcl.add',
+                    'eqp.trash',
+                    'eqp.list',
+                    'eqp.rec',
+                    'eqp.del',
+                    'eqp.edit',
+                    'eqp.add',
+                    'mtr.trash',
+                    'mtr.rec',
+                    'mtr.list',
+                    'mtr.edit',
+                    'mtr.del',
+                    'mtr.add',
+                    'mrg.list',
+                    'mrg.edit',
+                    'mrd.list',
+                    'mrd.edit',
+                    'mmt.list',
+                ];
+                break;
+            case ProfileTypeEnum::LEGAL_SELLER():
+                return [
+                    'vpr.list',
+                    'vpr.edit',
+                    'vep.list',
+                    'vep.edit',
+                    'vtl.list',
+                    'vlc.list',
+                    'vrp.list',
+                    'vrp.edit',
+                    'vtd.list',
+                    'cmb.trash',
+                    'cmb.rec',
+                    'cmb.list',
+                    'cmb.edit',
+                    'cmb.del',
+                    'cmb.add',
+                    'eqp.trash',
+                    'eqp.list',
+                    'eqp.rec',
+                    'eqp.del',
+                    'eqp.edit',
+                    'eqp.add',
+                    'mtr.trash',
+                    'mtr.rec',
+                    'mtr.list',
+                    'mtr.edit',
+                    'mtr.del',
+                    'mtr.add',
+                    'vcl.trash',
+                    'vcl.rec',
+                    'vcl.list',
+                    'vcl.edit',
+                    'vcl.del',
+                    'vcl.add',
+                    'mrg.list',
+                    'mrg.edit',
+                    'mrd.list',
+                    'mrd.edit',
+                    'mmt.list',
+                ];
+                break;
+            case ProfileTypeEnum::SELLER_DRIVER():
+                return [
+                    'fmt.vep',
+                    'fmt.vrp',
+                ];
+            case ProfileTypeEnum::FINAL_DESTINATION():
+                return [];
+                break;
+            default:
+                return [];
+                break;
+        }
+    }
+}

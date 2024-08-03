@@ -1,0 +1,242 @@
+[
+    {
+        "id": 51,
+        "parent_id": 89,
+        "name": "COD. 1 - IBAMA NÃO PERIGOSO",
+        "description": "1 - RESÍDUOS DA PROSPECÇÃO E EXPLORAÇÃO DE MINAS E PEDREIRAS, BEM COMO DE TRATAMENTOS FÍSICOS E QUÍMICOS DAS MATÉRIAS EXTRAÍDAS:"
+    },
+    {
+        "id": 52,
+        "parent_id": 90,
+        "name": "COD. 1 - IBAMA PERIGOSO",
+        "description": "1 - Resíduos da prospecção e exploração de minas e pedreiras, bem como de tratamentos físicos e químicos das matérias extraídas:"
+    },
+    {
+        "id": 53,
+        "parent_id": 89,
+        "name": "COD. 2 - IBAMA Não Perigoso",
+        "description": "2 - Resíduos da agricultura, horticultura, aquicultura, silvicultura, caça e pesca, e da preparação e processamento de produtos alimentares:"
+    },
+    {
+        "id": 54,
+        "parent_id": 90,
+        "name": "COD. 2 - IBAMA Perigoso",
+        "description": "2 - Resíduos da agricultura, horticultura, aquicultura, silvicultura, caça e pesca, e da preparação e processamento de produtos alimentares:"
+    },
+    {
+        "id": 55,
+        "parent_id": 89,
+        "name": "COD. 3 - IBAMA Não Perigoso",
+        "description": "3 - Resíduos do processamento de madeira e da fabricação de painéis, mobiliário, papel e celulose:"
+    },
+    {
+        "id": 56,
+        "parent_id": 90,
+        "name": "COD. 3 - IBAMA PERIGOSO",
+        "description": "3 - Resíduos do processamento de madeira e da fabricação de painéis, mobiliário, papel e celulose:"
+    },
+    {
+        "id": 57,
+        "parent_id": 89,
+        "name": "COD. 4 - IBAMA Não Perigoso",
+        "description": "4 - Resíduos da indústria do couro e produtos de couro e da indústria têxtil:"
+    },
+    {
+        "id": 58,
+        "parent_id": 90,
+        "name": "COD. 4 - IBAMA Perigoso",
+        "description": "4 - Resíduos da indústria do couro e produtos de couro e da indústria têxtil:"
+    },
+    {
+        "id": 59,
+        "parent_id": 90,
+        "name": "COD. 5 - IBAMA Perigoso",
+        "description": "5 - Resíduos da refinação de petróleo, da purificação de gás natural e do tratamento pirolítico do carvão:"
+    },
+    {
+        "id": 60,
+        "parent_id": 89,
+        "name": "COD. 5 - IBAMA Não Perigoso",
+        "description": "5 - Resíduos da refinação de petróleo, da purificação de gás natural e do tratamento pirolítico do carvão:"
+    },
+    {
+        "id": 61,
+        "parent_id": 90,
+        "name": "COD. 6 - IBAMA PERIGOSO",
+        "description": "6 - RESÍDUOS DE PROCESSOS QUÍMICOS INORGÂNICOS:"
+    },
+    {
+        "id": 62,
+        "parent_id": 89,
+        "name": "COD. 6 - IBAMA NÃO PERIGOSO",
+        "description": "6 - RESÍDUOS DE PROCESSOS QUÍMICOS INORGÂNICOS:"
+    },
+    {
+        "id": 63,
+        "parent_id": 90,
+        "name": "COD. 7 - IBAMA Perigoso",
+        "description": "7 - Resíduos de processos químicos orgânicos:"
+    },
+    {
+        "id": 64,
+        "parent_id": 89,
+        "name": "COD. 7 - IBAMA NÃO PERIGOSO",
+        "description": "7 - Resíduos de processos químicos orgânicos:"
+    },
+    {
+        "id": 65,
+        "parent_id": 90,
+        "name": "COD. 8 - IBAMA Perigoso",
+        "description": "8 - Resíduos da fabricação, formulação, distribuição e utilização de revestimentos (tintas,  vernizes e esmaltes vítreos), colas, vedantes e tintas de impressão:"
+    },
+    {
+        "id": 66,
+        "parent_id": 89,
+        "name": "COD. 8 - IBAMA NÃO PERIGOSO",
+        "description": "8 - Resíduos da fabricação, formulação, distribuição e utilização de revestimentos (tintas,  vernizes e esmaltes vítreos), colas, vedantes e tintas de impressão:"
+    },
+    {
+        "id": 67,
+        "parent_id": 90,
+        "name": "COD. 9 - IBAMA Perigoso",
+        "description": "9 - Resíduos da indústria fotográfica:"
+    },
+    {
+        "id": 68,
+        "parent_id": 89,
+        "name": "COD. 9 - IBAMA NÃO PERIGOSO",
+        "description": "9 - Resíduos da indústria fotográfica:"
+    },
+    {
+        "id": 69,
+        "parent_id": 89,
+        "name": "COD. 10 - IBAMA NÃO PERIGOSO",
+        "description": "10 - Resíduos de processos térmicos:"
+    },
+    {
+        "id": 70,
+        "parent_id": 90,
+        "name": "COD. 10 - IBAMA Perigoso",
+        "description": "10 - Resíduos de processos térmicos:"
+    },
+    {
+        "id": 71,
+        "parent_id": 90,
+        "name": "COD. 11 - IBAMA Perigoso",
+        "description": "11 - Resíduos de tratamentos químicos e revestimentos de metais e outros materiais; resíduos da hidrometalurgia de metais não ferrosos:"
+    },
+    {
+        "id": 72,
+        "parent_id": 89,
+        "name": "COD. 11 - IBAMA Não Perigoso",
+        "description": "11 - Resíduos de tratamentos químicos e revestimentos de metais e outros materiais; resíduos da hidrometalurgia de metais não ferrosos:"
+    },
+    {
+        "id": 73,
+        "parent_id": 89,
+        "name": "COD. 12 - IBAMA Não Perigoso",
+        "description": "12 - Resíduos da moldagem e do tratamento físico e mecânico de superfície de metais e plásticos:"
+    },
+    {
+        "id": 74,
+        "parent_id": 90,
+        "name": "COD. 12 - IBAMA Perigoso",
+        "description": "12 - Resíduos da moldagem e do tratamento físico e mecânico de superfície de metais e plásticos:"
+    },
+    {
+        "id": 75,
+        "parent_id": 90,
+        "name": "COD. 13 - IBAMA Perigoso",
+        "description": "13 - Óleos usados e resíduos de combustíveis líquidos (exceto óleos alimentares e capítulos 05, 12 e 19):"
+    },
+    {
+        "id": 76,
+        "parent_id": 90,
+        "name": "COD. 14 - IBAMA Perigoso",
+        "description": "14 - Resíduos de solventes, fluidos de refrigeração e gases propulsores orgânicos (exceto 07 e 08):"
+    },
+    {
+        "id": 77,
+        "parent_id": 89,
+        "name": "COD. 15 - IBAMA Não Perigoso",
+        "description": "15 - Resíduos de embalagens; absorventes, panos de limpeza, materiais filtrantes e vestuário de proteção não anteriormente especificados:"
+    },
+    {
+        "id": 78,
+        "parent_id": 90,
+        "name": "COD. 15 - IBAMA Perigoso",
+        "description": "15 - Resíduos de embalagens; absorventes, panos de limpeza, materiais filtrantes e vestuário de proteção não anteriormente especificados:"
+    },
+    {
+        "id": 79,
+        "parent_id": 90,
+        "name": "COD. 16 - IBAMA Perigoso",
+        "description": "16 - Resíduos não especificados em outros capítulos desta Lista:"
+    },
+    {
+        "id": 80,
+        "parent_id": 89,
+        "name": "COD. 16 - IBAMA Não Perigoso",
+        "description": "16 - Resíduos não especificados em outros capítulos desta Lista:"
+    },
+    {
+        "id": 81,
+        "parent_id": 89,
+        "name": "COD. 17 - IBAMA Não Perigoso",
+        "description": "17 - Resíduos de construção e demolição (incluindo solos escavados de locais contaminados):"
+    },
+    {
+        "id": 82,
+        "parent_id": 90,
+        "name": "COD. 17 - IBAMA Perigoso",
+        "description": "17 - Resíduos de construção e demolição (incluindo solos escavados de locais contaminados):"
+    },
+    {
+        "id": 83,
+        "parent_id": 90,
+        "name": "COD. 18 - IBAMA Perigoso",
+        "description": "18 - Resíduos dos serviços de saúde"
+    },
+    {
+        "id": 84,
+        "parent_id": 89,
+        "name": "COD. 19 - IBAMA Não Perigoso",
+        "description": "19 - Resíduos de instalações de gestão de resíduos, de estações de tratamento de águas  residuais e da preparação de água para consumo humano e água para consumo industrial:"
+    },
+    {
+        "id": 85,
+        "parent_id": 90,
+        "name": "COD. 19 - IBAMA Perigoso",
+        "description": "19 - Resíduos de instalações de gestão de resíduos, de estações de tratamento de águas  residuais e da preparação de água para consumo humano e água para consumo industrial:"
+    },
+    {
+        "id": 86,
+        "parent_id": 89,
+        "name": "COD. 20 - IBAMA Não Perigoso",
+        "description": "20 - Resíduos sólidos urbanos e equiparados (resíduos domésticos, do comércio, indústria e serviços), incluindo as frações provenientes da coleta seletiva:"
+    },
+    {
+        "id": 87,
+        "parent_id": 90,
+        "name": "COD. 20 - IBAMA Perigoso",
+        "description": "20 - Resíduos sólidos urbanos e equiparados (resíduos domésticos, do comércio, indústria e serviços), incluindo as frações provenientes da coleta seletiva:"
+    },
+    {
+        "id": 89,
+        "parent_id": 64,
+        "name": "CLASSE II (ABNT NBR 10004/04)",
+        "description": "RESÍDUOS NÃO PERIGOSOS"
+    },
+    {
+        "id": 90,
+        "parent_id": 61,
+        "name": "CLASSE I (ABNT NBR 10004/04)",
+        "description": "RESÍDUO PERIGOSO"
+    },
+    {
+        "id": 91,
+        "parent_id": 89,
+        "name": "COD. 18 - IBAMA Não Perigoso",
+        "description": "18 - Resíduos dos serviços de saúde"
+    }
+]
